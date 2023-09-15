@@ -1,8 +1,8 @@
 {
   "Ads": [
     {
-      "select_main_ads" : "ADMOB",
-      "select_backup_ads" :"APPLOVIN-D",
+      "select_main_ads" : "null",
+      "select_backup_ads" :"null",
 
       "open_ads_admob" : "ca-app-pub-4032018959181535/2443623257",
       "open_ads_alien" : "null",
@@ -653,6 +653,14 @@
 
 
   "Guide": [
+    {
+      "id":1,
+      "name_category": "Muslim",
+      "title":"Akibat Memakan Harta Riba",
+      "image":"file:///android_asset/guide/gambar/list.png",
+      "link":"file:///android_asset/guide/jan-1.html",
+      "description":"Khutbah Jumat Setahun Bulan Januari Jumat Ke-1"
+    },
     {
       "id":1,
       "name_category": "Muslim",
