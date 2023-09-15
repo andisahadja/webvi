@@ -16,7 +16,7 @@
 
       "interval_intertitial" : 3,
 
-      "on_off_banner_home" : "1",
+      "on_off_banner_home" : "0",
       "on_off_banner_splash" : "1",
       "on_off_banner_exit_dialog" : "1",
 
