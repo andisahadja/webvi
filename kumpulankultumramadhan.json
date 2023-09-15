@@ -662,6 +662,14 @@
       "description":"Kumpulan kultum ramadhan dengan tampilan menarik dan keren"
     },
     {
+      "id":1,
+      "name_category": "Muslim",
+      "title":"Tentang Sabar",
+      "image":"file:///android_asset/guide/gambar/list.png",
+      "link":"file:///android_asset/guide/1-tentang-sabar.html",
+      "description":"Kumpulan kultum ramadhan dengan tampilan menarik dan keren"
+    },
+    {
       "id":2,
       "name_category": "Muslim",
       "title":"Pergaulan Bebas",
