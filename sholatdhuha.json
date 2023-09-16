@@ -1,8 +1,8 @@
 {
   "Ads": [
     {
-      "select_main_ads" : "ADMOB",
-      "select_backup_ads" :"APPLOVIN-D",
+      "select_main_ads" : "null",
+      "select_backup_ads" :"null",
 
       "open_ads_admob" : "ca-app-pub-4032018959181535/7187370398",
       "open_ads_alien" : "null",
@@ -710,10 +710,10 @@
       "description":"Tata cara sholat Dhuha dan Tahajjud dengan tampilan menarik"
     },
     {
-      "id":6,
+      "id":7,
       "name_category": "Kalender Jawa",
       "title":"Kalender Jawa Lengkap",
-      "image":"file:///android_asset/guide/gambar/list_cal.png",
+      "image":"file:///android_asset/guide/gambar/list.png",
       "link":"file:///android_asset/guide/7-kalender-jawa.html",
       "description":"Kalender Jawa Lengkap Sepanjang Masa"
     }
