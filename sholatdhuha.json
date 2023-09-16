@@ -708,6 +708,14 @@
       "image":"file:///android_asset/guide/gambar/list.png",
       "link":"file:///android_asset/guide/6-doa-sholat-tahajjud.html",
       "description":"Tata cara sholat Dhuha dan Tahajjud dengan tampilan menarik"
+    },
+    {
+      "id":6,
+      "name_category": "Kalender Jawa",
+      "title":"Kalender Jawa Lengkap",
+      "image":"file:///android_asset/guide/gambar/list_cal.png",
+      "link":"file:///android_asset/guide/7-kalender-jawa.html",
+      "description":"Kalender Jawa Lengkap Sepanjang Masa"
     }
   ]
 }
