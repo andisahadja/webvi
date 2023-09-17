@@ -1,0 +1,745 @@
+{
+  "Ads": [
+    {
+      "select_main_ads" : "null",
+      "select_backup_ads" :"null",
+
+      "open_ads_admob" : "ca-app-pub-4032018959181535/4369635366",
+      "open_ads_alien" : "null",
+      "open_ads_max" : "null",
+
+      "main_ads_banner" : "ca-app-pub-4032018959181535/8051847899",
+      "main_ads_intertitial" : "ca-app-pub-4032018959181535/1486439546",
+
+      "backup_ads_banner" : "f4a7afccb1f0fdbf",
+      "backup_ads_intertitial" : "0d969c10f4a80105",
+
+      "interval_intertitial" : 3,
+
+      "on_off_banner_home" : "1",
+      "on_off_banner_splash" : "1",
+      "on_off_banner_exit_dialog" : "1",
+
+      "initialize_sdk" : "null",
+      "initialize_sdk_backup_ads" : "null",
+
+      "high_paying_keyword_1" : "property",
+      "high_paying_keyword_2" : "insurance",
+      "high_paying_keyword_3" : "finance",
+      "high_paying_keyword_4" : "automotive",
+      "high_paying_keyword_5" : "japan",
+
+      "status_app" : "0",
+      "link_redirect" : "https://google.com",
+
+      "random_list_content" : "0",
+      "jumlah_list_categori_home" : 8,
+      "jumlah_list_recent_home" : 10,
+
+      "child_direct_gdpr" : "true",
+      "one_signal_api_key" : "9d07c815-f8b1-4230-98ac-f0bf0161e9cb",
+
+      "on_off_protect_app" : "false",
+      "license_key" : "null"
+    }
+  ],
+
+
+  "More": [
+    {
+      "title": "Khutbah Jumat Setahun",
+      "image": "https://lh3.googleusercontent.com/D2HU8_fgWYm6ET6ef_EEL0xjWuQ20fBuQLtcpN4HBtIMAUzp2JDuCzwb7HiI3sPb1oA",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.khutbahjumatsetahun"
+    },
+    {
+      "title": "Panduan Sholat Dhuha & Tahajud",
+      "image": "https://lh3.googleusercontent.com/vQcwkpFTL6F9S2NYVsbX1eXdX0JVdBioqJoRUczND0wrdfAPzBy0ZmrXcDHqMVIjhD4",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.sholatdhuha"
+    },
+    {
+      "title": "Ronaldo Wallpaper HD",
+      "image": "https://lh3.googleusercontent.com/30VOjWs5o4eLmAKQ3as2cxBuxFr_ho5D9Iy_lAcajg7f0ydpItrzmSVlc9FXLZYuF2o",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.ronaldowallpaperhd"
+    }
+  ],
+
+
+  "Categories": [
+    {
+      "name_category": "Ramadhan",
+      "image": "file:///android_asset/gambar/ramadhan.webp"
+    },{
+      "name_category": "Fiqih",
+      "image": "file:///android_asset/gambar/fiqih.webp"
+    },
+    {
+      "name_category": "Aqidah",
+      "image": "file:///android_asset/gambar/aqidah.webp"
+    },
+    {
+      "name_category": "Akhlak",
+      "image": "file:///android_asset/gambar/akhlak.webp"
+    },
+    {
+      "name_category": "Khutbah",
+      "image": "file:///android_asset/gambar/khutbah.webp"
+    },
+    {
+      "name_category": "Anak",
+      "image": "file:///android_asset/gambar/anak.webp"
+    },
+    {
+      "name_category": "Adab",
+      "image": "file:///android_asset/gambar/adab.webp"
+    },
+    {
+      "name_category": "Dzikir & Doa",
+      "image": "file:///android_asset/gambar/doa.webp"
+    }
+  ],
+
+
+  "Data": [
+    {
+      "id": 61,
+      "name_category": "Khutbah",
+      "author": "Departemen Ilmiyah HASMI",
+      "title": "Khutbah Jum’at Setahun",
+      "image": "file:///android_asset/image/hasmi.png",
+      "link": "https://www.hasmi.org/wp-content/uploads/2019/09/0-Naskah-Khutbah-jumat-2018_-1-60_MIX.pdf",
+      "description": "Khutbah Jum’at Setahun"
+    },
+    {
+      "id": 60,
+      "name_category": "Khutbah",
+      "author": "Amir Sahidin, M.Ag",
+      "title": "Materi Khutbah Jumat: Motivasi Menuntut Ilmu dalam al-Quran",
+      "image": "https://i0.wp.com/www.dakwah.id/wp-content/uploads/2023/08/materi-khutbah-jumat-motivasi-menuntut-ilmu-dalam-al-quran-dakwah.id_.jpg",
+      "link": "https://www.dakwah.id/wp-content/uploads/2023/08/Khutbah-Jumat-Singkat-II-Agustus-23-Motivasi-Menuntut-Ilmu-dalam-al-Quran-dakwah-id.pdf",
+      "description": "Materi Khutbah Jumat: Motivasi Menuntut Ilmu dalam al-Quran"
+    },
+    {
+      "id": 59,
+      "name_category": "Khutbah",
+      "author": "Amir Sahidin, M.Ag",
+      "title": "Khutbah Jumat Singkat: Menjadi Orangtua Teladan Zaman Now",
+      "image": "https://i0.wp.com/www.dakwah.id/wp-content/uploads/2023/09/materi-khutbah-jumat-menjadi-orangtua-teladan-zaman-now-dakwah.id_.jpg",
+      "link": "https://www.dakwah.id/wp-content/uploads/2023/09/Khutbah-Jumat-Singkat-II-September-23-Menjadi-Orangtua-teladan-Zaman-Now-dakwah-id.pdf",
+      "description": "Khutbah Jumat Singkat: Menjadi Orangtua Teladan Zaman Now"
+    },
+    {
+      "id": 58,
+      "name_category": "Khutbah",
+      "author": "Lembaga Pemuliaan Lingkungan Hidup dan Sumber Daya Alam",
+      "title": "Kumpulan Khutbah Jum’at Dan Ied Perlindungan Dan Pengelolaan Lingkungan Hidup Dan Sumber Daya Alam",
+      "image": "http://www.ecomasjid.id/photos/shares/eBook10.PNG",
+      "link": "https://drive.google.com/uc?export=download&id=1jpKkcq3XHsDn4O6B4Fhw0QIa7Kj0JTMq",
+      "description": "Meningkatnya bencana alam yang di sebabkan oleh rusaknya lingkungan hidup telah meningkatkan perhatian umat Islam Indonesia terhadap isu pemeliharaan lingkungan hidup yang berdasarkan syari’ah. Penerbitan buku ini, selain untuk pedoman para khatib di masjid-masjid dan lembaga pendidikan agama maupun lembaga terkait lainnya, di maksudkan juga untuk menjadi bahan atau sumber pengetahuan masyarakat secara umum."
+    },
+    {
+      "id": 57,
+      "name_category": "Khutbah",
+      "author": "Muhammad Abduh Tuasikal",
+      "title": "Tips Khutbah Jumat 15 Menit Paling Berkesan",
+      "image": "https://ebooksunnah.com/storage/media/rUaWLgeO69toAZXE4cJJGIx5zngh3wdURQvUwfmQ.jpeg",
+      "link": "https://ebooksunnah.com/en/ebooks/tips-khutbah-jumat-15-menit-paling-berkesan/download/4e44553d",
+      "description": "Buku ini berisi “Tips Khutbah Jumat 15 Menit Paling Berkesan” yang berisi bahasan fikih terkait shalat Jumat, hukum seputar khutbah Jumat, adab di hari Jumat, aturan dalam berkhutbah, tips khutbah, hingga contoh naskah khutbah yang bisa digunakan."
+    },
+    {
+      "id": 56,
+      "name_category": "Khutbah",
+      "author": "Abdul Muhsin bin Muhammad Al-Qasim",
+      "title": "Tauhid Dari Khutbah-Khutbah Pilihan Masjid Nabawi",
+      "image": "https://ebooksunnah.com/storage/media/J0uoPpjVJb8WaoGDMiwkHSCNQgaebwTWRUzf4hfQ.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/tauhid-dari-khutbah-khutbah-pilihan-masjid-nabawi/download/4d5463334f513d3d",
+      "description": "Tauhid adalah kewajiban pertama atas para hamba, dan karena Tauhid inilah Allah menciptakan jin dan manusia, mengutus para Rasul, menurunkan kitab-kitab, dan menjadikan surga sebagai balasan bagi ahli Tauhid. Mengingat urgensinya, tentu Tauhid adalah hal terbesar yang harus didakwahkan kepada manusia.\n\nMengingat urgensi pokok ini, maka ada banyak khutbah tentang Tauhid yang disampaikan di Masid Nabawi. Lalu, khutbah-khutbah yang berjumlah 14 tersebut disusun di dalam buku ini dengan judul “TAUHID dari Khutbah-Khutbah Pilihan Masjid Nabawi”.\n\nMudah-mudahan buku ini bermanfaat dan bernilai keikhlasan, semata- mata mengharap Ridho Allah. Shalawat dan Salam semoga tetap tercurahkan kepada Nabi kita, Muhammad, keluarga, dan seluruh sahabatnya."
+    },
+    {
+      "id": 55,
+      "name_category": "Khutbah",
+      "author": "Abu Ghozie As-Sundawie",
+      "title": "Fitnah Akhir Zaman (Khutbah Hari Raya)",
+      "image": "https://ebooksunnah.com/storage/media/BdOAcf4s2z9z1EOZvT8swRj0a8trjv8fowOhcN39.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/fitnah-akhir-zaman-khutbah-hari-raya/download/4d6a45354f413d3d",
+      "description": "Fitnah Akhir Zaman (Khutbah Hari Raya)"
+    },
+    {
+      "id": 54,
+      "name_category": "Khutbah",
+      "author": "Abu Hafizhah Irfan",
+      "title": "Ensiklopedi Khutbah Pilihan",
+      "image": "https://ebooksunnah.com/storage/media/mJsgn1XU2MKzsxTgOrXqrXUW7esMzE487ts7yDkU.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/ensiklopedi-khutbah-pilihan/download/4d5467354e513d3d",
+      "description": "Sungguh beruntunglah seorang yang diberikan kemampuan dapat mengajak manusia untuk menerima kebenaran petunjuk Allah subhanahu wa ta'ala. Karena demikian mulianya berdakwah di jalan Allah subhanahu wa ta'ala, maka ucapan apakah yang lebih mulia selain dari ucapan dalam rangka menyeru manusia kepada kebenaran dan Surga Allah subhanahu wa ta'ala. Maka untuk membekali para khatib dalam dakwahnya, kami menyusun buku ini sebagai materi khutbah dalam berbagai kesempatan, yang kami beri judul, “Ensiklopedi Khutbah Pilihan.” Buku ini berisi kumpulan materi pilihan, untuk khutbah Jum’at, khutbah nikah, khutbah gerhana, khutbah Idul Fitri dan Idul Adh-ha. Materi dalam buku ini disajikan dengan ringkas, namun padat dengan referensi dan keilmuan yang mapan. Karena di antara petunjuk Nabi shollalahu 'alaihi wa sallam dalam berkhutbah adalah memendekkan khutbah dan memanjangkan shalat. \n\nRasulullah a bersabda;\n“Sesungguhnya panjangnya shalat seseorang dan pendeknya khutbahnya merupakan tanda kedalaman pemahaman (agama)nya. Maka panjangkanlah shalat dan pendekkanlah khutbah. Sesungguhnya di antara penjelasan dapat menyihir (mempengaruhi orang lain).” (HR. Muslim Juz 2 : 869)"
+    },
+    {
+      "id": 53,
+      "name_category": "Khutbah",
+      "author": "Abdullah Bin Jarullah Bin Ibrahim Al Jarullah",
+      "title": "Risalah Untuk Para Imam Dan Khatib Masjid",
+      "image": "https://ebooksunnah.com/storage/media/VgPsvtappnylLu2TV9hJpabE1lt70YsA4hPFzWhq.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/risalah-untuk-para-imam-dan-khatib-masjid/download/4d6a51304d413d3d",
+      "description": "Berlandaskan pentingnya salat dalam Islam dan kedudukannya sebagai tiang agama demikian juga sebagai penghubung antara hamba dengan Allah Rabb semesta alam dan juga akan wajibnya saling tolong-menolong dalam kebaikan dan takwa, saling menasihati dalam kebaikan dan bersabar di atasnya; maka saya menulis suatu tulisan untuk para imam masjid, para muazin dan para makmum, saya perluas tulisan ini sampai pada hukum- hukum salat dari awal hingga akhir, juga fatwa-fatwa yang berkaitan dengan salat, khotbah jumat dan daftar sebagian buku referensi kumpulan khotbah agar bisa diambil faidah darinya dan dicontoh isinya. Tulisan ini mencapai 263 halaman yang cukup tebal; sehingga saya meringkasnya pada hal-hal yang berkaitan dengan hukum-hukum dan adab-adab imam masjid dan para khatib saja, karena merekalah figur bagi masyarakat dalam urusan ibadah yang mulia ini."
+    },
+    {
+      "id": 52,
+      "name_category": "Dzikir & Doa",
+      "author": "Sa'id bin Ali bin Wahf al-Qahthani, Abdullah bin Shalih al-Fauzan",
+      "title": "Dzikir Pagi dan Petang dan Setelah Sholat Fardhu",
+      "image": "https://ebooksunnah.com/storage/media/3xTuuJIxPxIllmhAQEMeiylkFkcaYi4atrzCf4d6.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/dzikir-pagi-dan-petang-dan-setelah-sholat-fardhu/download/4d54517a4e773d3d",
+      "description": "Berikut ini, kami hadirkan panduan dzikir pagi petang dan dzikir ba’da sholat secara ringkas dengan harapan membantu kaum muslimin untuk lebih mudah mengamalkannya. Untuk dzikir pagi petang kami nukilkan dari buku Syaikh Dr. Sa’id bin Ali bin Wahf al-Qohthoni dalam bukunya “Wirdu Shobah wal Masa Minal Kitab wa Sunnah”, sedangkan dzikir bada sholat fardhu kami nukilkan dari buku Syaikh Abdullah  bin Shalih Al-Fauzan berjudul “Al-Adzkar Ba’da Sholah Al-Maktubah Ma’a Syarhiha”."
+    },
+    {
+      "id": 51,
+      "name_category": "Dzikir & Doa",
+      "author": "Firanda Andirja",
+      "title": "Panduan Singkat Tata Cara dan Bacaan Ruqyah Syar’iyyah",
+      "image": "https://ebooksunnah.com/storage/media/jBeF0XbfQElTdtF1rWv6j2u2eyWoU7ZAWispr2wg.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/panduan-singkat-tata-cara-dan-bacaan-ruqyah-syariyyah/download/4d5449334d673d3d",
+      "description": "Ruqyah adalah penyembuhan suatu penyakit dengan pembacaan ayat ayat suci Al Qur’an, atau doa-doa kepada Allah. \n\nSyarat dibolehkannya ruqyah sebagaimana perkataan Ibnu Hajar rahimahullah:\n“Para ulama telah bersepakat bahwa ruqyah itu\ndiperbolehkan jika memenuhi 3 persyaratan:\n- Ruqyah dengan firman Allah atau dengan nama- nama dan sifat-sifatNya,\n- Ruqyah dengan bahasa Arab atau jika selain bahasa Arab maka harus dipahami maknanya\n- Hendaknya meyakini bahwasanya ruqyah tidaklah memberi pengaruh dengan sendirinya akan tetapi kembali kepada Allah”\n\nSebagian ulama keliru dan berpendapat bahwa ruqyah dengan apa saja -selama bermanfaat- adalah diperbolehkan. Dan hal ini telah dibantah oleh Ibnu Hajar, karena Nabi ﷺ menyatakan “Tidak mengapa ruqyah selama tidak ada kesyirikan padanya”. Dan jika ruqyah tersebut dengan bahasa yang tidak dipahami maka dikhawatirkan mengandung atau bisa menjerumuskan dalam kesyirikan."
+    },
+    {
+      "id": 50,
+      "name_category": "Dzikir & Doa",
+      "author": "Abdulmuhsin bin Muhammad Al-Qoshim",
+      "title": "Terjemah Dzikir dan Adab",
+      "image": "https://ebooksunnah.com/storage/media/fiNMiophi2UWfNjDBTT5QDfrEbeQ5ZNLfLL7amkL.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/terjemah-dzikir-dan-adab/download/4d5463334d513d3d",
+      "description": "Al-Adzkār wal Adāb (dzikir-dikir dan adab-adab) karya Syaikh Dr. Abdulmuhsin Al-Qoshim ini merupakan kitab pendahuluan (tamhīdī) sebelum menghafal matan-matan 6 semester yang disusun beliau.\n\nTerjemahan ini mengacu kepada cetakan ke-2 yang berisi 140 bab, penyempurna dari cetakan ke-1 yang berisi 135 bab.\n\nYang saya lakukan dalam menerjemahkan ini adalah:\n\nMenerjemahkan dengan merujuk kepada syarah hadits (terjemah maknawiyah).\nMenggunakan ejaan o bukan a, seperti sholat bukan shalat atau salat.\nTidak mencantumkan teks Arabnya kecuali jika berupa doa atau dzikir. Tujuannya agar ringan dibaca, tanpa kehilangan kesempatan menghafal teks doa, bagi yang ingin menghafalnya.\nTa’liq (komentar) penulis dicantumkan langsung di terjemahan, kecuali jika tidak memungkinkan maka diletakkan di footnote. Seringnya komentar di footnote adalah dari penerjemah.\nPenomoran footnote tidak bersambung tetapi tiap halaman diulang dengan nomor satu. Tujuannya untuk meri-ngankan mata dalam membacanya."
+    },
+    {
+      "id": 49,
+      "name_category": "Dzikir & Doa",
+      "author": "Sa’id bin Ali bin Wahf Al-Qahthani",
+      "title": "Kumpulan Do'a dalam Al Qu'ran dan Hadits (Edisi Smart Phone)",
+      "image": "https://ebooksunnah.com/storage/media/2HHMEnVztyjIgkrqvMyFhGAmcrFTc9ZQsBkI5AxE.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/kumpulan-doa-dalam-al-quran-dan-hadits-edisi-smart-phone/download/4d6a45324d413d3d",
+      "description": "Buku ini adalah ringkasan dari buku; Adz-Dzikru wa ad-du’a’ wal ‘ilaj bi ar-ruqa min al-kitab wa as-sunnah. Kami hanya mengutip dari bagian dzikir, agar mudah dibawa ketika bepergian.\n\nSesungguhnya kami hanya mengutip kalimat dzikir. Untuk pendataan hadits yang konkret. Kami menyebutkan satu atau dua sumber biblioteknya dari buku aslinya. Barangsiapa yang ingin mengetahui sahabat (yang meriwayatkan hadits), atau tambahan masukan dalam pendataan, maka hendaklah ia membuka kembali buku aslinya.\nKami meminta kepada Allah 'Azza wa Jalla Yang Maha Mulia lagi Maha Agung dengan Asma’ul husna dan sifat-sifat-Nya Yang Maha Tinggi, semoga menjadikan penyusunan buku ini ikhlas karena-Nya, bermanfa’at untukku pada waktu hidup maupun sesudah tiada. Bermanfa’at bagi orang yang membaca atau mencetaknya, dan sebagai sebab tersebarnya buku ini. Sesungguhnya Allah 'Azza wa Jalla Yang Maha Suci lagi Maha Kuasa untuk melakukannya.\n\nNote: Buku ini ditulis ulang agar mudah dibaca di smart phone, naskah diambil dari website islamhouse.com (Koreksi dan Penulisan Ulang naskah tersebut oleh: Abdullah Khaidhir, Fir'adi Nasruddin - Erwandi Tarmizi). Semoga Allah Ta’ala merahmati semua yang terlibat dan dapat menjadi jariyah kebaikan."
+    },
+    {
+      "id": 48,
+      "name_category": "Dzikir & Doa",
+      "author": "Tim Bimbingan Islam Yogyakarta",
+      "title": "Dzikir Setelah Shalat Fardhu Sesuai Sunnah Nabi Shallallahu ‘Alaihi Wa Sallam",
+      "image": "https://ebooksunnah.com/storage/media/wBPeNCjCnrmND13onigvDkKths7OiRASapu1ssJF.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/dzikir-setelah-shalat-fardhu-sesuai-sunnah-nabi-shallallahu-alaihi-wa-sallam/download/4d6a49354d513d3d",
+      "description": "Dzikir Setelah Shalat Fardhu Sesuai Sunnah Nabi Shallallahu ‘Alaihi Wa Sallam."
+    },
+    {
+      "id": 47,
+      "name_category": "Dzikir & Doa",
+      "author": "Abu Zur'ah Wiwit Wahyu",
+      "title": "Kumpulan Do’a Lengkap Untuk Kebutuhan Hamba Allah",
+      "image": "https://ebooksunnah.com/storage/media/YvanpcTPZBULR2tzMjiY1J4c2131hhIC0jNl7oUz.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/kumpulan-doa-lengkap-untuk-kebutuhan-hamba-allah/download/4d6a51774d413d3d",
+      "description": "Di hadapan pembaca sekalian kitab terjemahan poster doa-doa lengkap yang diambilkan dari hadits Rasulullahصلى الله عليه وسلم shahih yang disebut dengan jawami'ul\ndu'aa`, sebagaimana diriwayatkan oleh Aisyah radhiyallahu 'anha:\nDari Aisyah radhiyallahu 'anhuma, ia berkata; Rasulullah shallallahu 'alaihi wasallam menyukai doa-doa yang singkat padat, dan meninggalkan selain itu. Diriwayatkan oleh Abu Dawud, dishahihkan oleh Syaikh Al-Albani dalam Shahih Al-Jaami' (4949).\n\nBerkata Syaikh Abdul Muhsin Al-'Abbad hafi zhahullah:\n\"Al-Jawaami' adalah lafaznya sedikit sedangkan maknanya banyak, sedikit susunan kalimatnya maknanya luas dan ini termasuk jawami'ul kalim. Dan beginilah doa-doa Rasulullahصلى الله عليه وسلم) \".Syarh Sunan Abi Dawud)."
+    },
+    {
+      "id": 46,
+      "name_category": "Dzikir & Doa",
+      "author": "Sa'id bin Ali bin Wahf al-Qahthani",
+      "title": "Dzikir Pagi & Sore (Disarikan Dari Hisnul Muslim)",
+      "image": "https://ebooksunnah.com/storage/media/pV1mazpkXrctfImurkXEyFvRmvnIa2EomsIjUFa9.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/dzikir-pagi-sore-disarikan-dari-hisnul-muslim/download/4d6a51794e673d3d",
+      "description": "Dzikir Pagi & Sore (Disarikan Dari Hisnul Muslim)"
+    },
+    {
+      "id": 45,
+      "name_category": "Dzikir & Doa",
+      "author": "Abdurrazzaq bin Abdulmuhsin al-Badr",
+      "title": "Doa-Doa Pilihan Terbaik",
+      "image": "https://ebooksunnah.com/storage/media/RpURnmX3JQ7J12mTYBeIVWERw6YSwFDsijpJV925.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/doa-doa-pilihan-terbaik/download/4d6a59314e413d3d",
+      "description": "Ini adalah bundel bermanfaat, yang berisikan doa-doa pilihan lagi sarat makna yang pernah dipanjatkan oleh Nabi Muhammad ﷺ."
+    },
+    {
+      "id": 44,
+      "name_category": "Fiqih",
+      "author": "Kantor Dakwah Jaliyat Sulay - Riyadh",
+      "title": "Petunjuk Seputar Zakat",
+      "image": "https://ebooksunnah.com/storage/media/bKMcJ75Brkkai41DauJgVAuJdOn9MOoeQV0fXjYo.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/petunjuk-seputar-zakat/download/4d5463344f513d3d",
+      "description": "Buku ini menjelaskan kepada pembaca tentang sumber-sumber zakat dalam Islam, orang-orang yang berhak dan yang tidak berhak menerima zakat."
+    },
+    {
+      "id": 43,
+      "name_category": "Fiqih",
+      "author": "Abu Ubaidah Yusuf bin Mukhtar as-Sidawi",
+      "title": "Fiqih Aqiqoh",
+      "image": "https://ebooksunnah.com/storage/media/6jkpdDFxLe4gCkVgfgCd0OG6owBo55jByC9dIVDB.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/fiqih-aqiqoh/download/4d546b794d673d3d",
+      "description": "Kehadiran si mungil dan buah hati di tengah-tengah keluarga adalah kegembiraan tersendiri yang tak terhingga, sebab anak merupakan suatu anugerah, penyejuk pandangan mata dan dambaan setiap suami istri yang telah berkeluarga.\n\nAllah 'Azza wa Jalla berfirman:\n\nٱلْمَالُ وَٱلْبَنُونَ زِينَةُ ٱلْحَيَوٰةِ ٱلدُّنْيَا\n\n\"Harta dan anak-anak adalah perhiasan kehidupan dunia.\" (QS. Al-Kahfi: 46)\n\nOleh karenanya, sebagai ungkapan rasa syukur atas nikmat agung tersebut, salah satu wujudnya adalah dengan mengadakan aqiqoh, sebuah sunnah yang masih banyak dilalaikan oleh kaum muslimin saat ini dan menggantinya dengan ritual lainnya.\n\nNamun, apa itu aqiqoh? Bagaimana hukum-hukum seputarnya? Tentu ini membutuhkan ilmu dan penjelasan lebih lanjut sehingga kita bisa mengamalkannya atas dasar ilmu dan dengan lapang dada. Semoga penjelasan singkat ini bisa memberikan secercah sinar untuk menghidupkan salah satu sunnah Nabi shallalahu 'alaihi wa sallam tersebut. Amiin."
+    },
+    {
+      "id": 42,
+      "name_category": "Fiqih",
+      "author": "Muhammad bin Shalih Al Utsaimin",
+      "title": "Amalan-Amalan Umrah",
+      "image": "https://ebooksunnah.com/storage/media/SNQhPmzuqE05hrmMjDhGRSDPpWoTyvuKu7peQ51R.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/amalan-amalan-umrah/download/4d6a49304d673d3d",
+      "description": "Amalan-Amalan Umrah\n1- Mandi besar seperti mandi janabah, dan memakai minyak wewangian.\n2-  Memakai  pakaian  ihram;  sarung dan selendang bagi lelaki, dan bagi wanita boleh memakai pakaian apa saja yang diperbolehkan.\n3- Membaca talbiyah secara terus- menerus hingga thawaf.\n4- Thawaf mengelilingi Ka’bah seba- nyak  tujuh  kali  putaran,  dimulai dari Hajar Aswad dan berakhir di sana.\n5- Shalat sunnah dua rakaat di belakang Maqam Ibrahim\n6- Sa’i sebanyak tujuh kali, dimulai dari bukit Shafa dan berakhir di bukit Marwah.\n7- Menggundul rambut atau memendekkannya bagi lelaki, dan bagi wanita cukup memotong seukuran ujung jari pada setiap pintalan rambutnya."
+    },
+    {
+      "id": 41,
+      "name_category": "Fiqih",
+      "author": "Muhammad bin Shalih Al Utsaimin",
+      "title": "Amalan-Amalan Haji",
+      "image": "https://ebooksunnah.com/storage/media/1DjcCvg4JbDDR7DLYw6a5LkRBEKsk8cYSNwp1q9Y.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/amalan-amalan-haji/download/4d6a49304e413d3d",
+      "description": "Panduan ringkas Amalan-Amalan Haji sesuai sunnah"
+    },
+    {
+      "id": 40,
+      "name_category": "Fiqih",
+      "author": "Muhammad bin Shalih Al Utsaimin",
+      "title": "60 Tanya Jawab Tentang Hukum Haid dan Nifas",
+      "image": "https://ebooksunnah.com/storage/media/Pt1QFEy4vNtyDNLzd0HWSqoMMgyvKbntAJyb9WZz.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/60-tanya-jawab-tentang-hukum-haid-dan-nifas/download/4d6a51794d673d3d",
+      "description": "Saudari Muslimah!\nMelihat banyaknya pertanyaan yang diajukan kepada para ulama seputar hukum haid dalam ibadah, kami menganggap sangat penting untuk mengumpulkan pertanyaan-pertanyaan yang selalu berulang tentang hal itu beserta jawabannya. Tanya jawab ini kebanyakan akan dibahas tanpa penjelasan panjang lebar karena lebih menginginkan penjelasan ringkas.\n\nSaudari Muslimah!\nKami berusaha mengumpulkannya dalam tulisan ini supaya selalu menjadi pegangan Anda karena sangat pentingnya memahami syariat Allah dan supaya Anda dapat beribadah kepada Allah atas dasar ilmu dan keyakinan."
+    },
+    {
+      "id": 39,
+      "name_category": "Fiqih",
+      "author": "Yulian Purnama",
+      "title": "Fikih Pengurusan Jenazah",
+      "image": "https://ebooksunnah.com/storage/media/brCZQyes3P4kkb3P6pgld2xkq8QO5SmRLrYY21gy.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/fikih-pengurusan-jenazah/download/4d6a51324f413d3d",
+      "description": "Setiap jiwa pasti akan mati. Dan Islam adalah agama yang sempurna yang telah memberikan petunjuk yang paling tinggi dan indah dari sejak manusia lahir sampai matinya. Khususnya masalah yang terakhir ini, tidak ada tuntunan yang paling sempurna dalam mengurus dan menghormati orang yang telah mati kecuali tuntunan yang terdapat dalam agama Islam. Di dalam risalah ini akan dibahas tuntunan pengurusan jenazah sejak awal meninggalnya hingga dimakamkan, sesuai dengan Al Qur'an, As Sunnah dan pemahaman salaful ummah.\n\nSemoga risalah ringkas ini menambah pemahaman kita tentang bagaimana fikih dan adab dalam mengurus jenazah sesuai dengan tuntunan Islam. Semoga Allah jadikan amalan ini ikhlas hanya mengharapkan ridha Allah semata."
+    },
+    {
+      "id": 38,
+      "name_category": "Fiqih",
+      "author": "Hari Ahadi",
+      "title": "Fikih Kurban (Penjelasan kandungan hadits-hadits seputar kurban dalam Bulughul Maram)",
+      "image": "https://ebooksunnah.com/storage/media/73hHTzMI2JWMnhAaEblWZdtAU0jNHLaUbs7V8eGK.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/fikih-kurban-penjelasan-kandungan-hadits-hadits-seputar-kurban-dalam-bulughul-maram/download/4d6a55334d413d3d",
+      "description": "Buku ini ialah penjelasan penjelasan terhadap kandungan hadits-hadits ‘Bab Kurban’ dari kitab ‘Bulughul Maram’ karya al-Hafizh Abul Fadhl Ahmad bin Ali bin Hajar al-Asqalani rahimahullah.\n\nKurban sebagai ibadah yang berulang tiap tahun, menjadi penggerak terbesar bagi kami untuk mencatat berbagai pembahasannya di satu tempat tersendiri, sebagai pengingat bagi kami pribadi, dan untuk menambah referensi bagi segenap pembaca sekalian seputar pembahasan kurban."
+    },
+    {
+      "id": 37,
+      "name_category": "Fiqih",
+      "author": "Abu Ubaidah Yusuf bin Mukhtar as-Sidawi",
+      "title": "Sholat Bersama Nabi Shallalahu 'alaihi wa sallam",
+      "image": "https://ebooksunnah.com/storage/media/xDrqPggm4BjtCDMi1VQQ6YucpF6uHFIMy0HJGvbW.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/sholat-bersama-nabi-shallalahu-alaihi-wa-sallam/download/4d6a63794d513d3d",
+      "description": "Setiap muslim memahami betapa agungnya dan istimewanya kedudukan shalat dalam Islam. Sholat termasuk pondasi agama Islam yang mulia. Shalat merupakan amalan yang pertama kali dihisab oleh Allah 'Azza wa Jalla kelak pada hari kiamat. Shalat merupakan penyejuk mata Nabi Muhammad shallalahu 'alaihi wa sallam dan orang-orang shalih. Shalat merupakan satu-satunya ibadah yang tidak pernah gugur dari seorang hamba, selama nyawanya masih ada. Shalat adalah satu-satunya ibadah yang diwajibkan oleh Allah 'Azza wa Jalla secara langsung kepada Nabi shallalahu 'alaihi wa sallam tanpa perantara. Shalat termasuk ibadah yang paling sering disebut dalam al-Qur’an yaitu sebanyak 100 kali.\n\nSemoga kehadiran buku ini diberkahi oleh Allah 'Azza wa Jalla, menjadi tabungan kebaikan bagi penulisnya dan orang-orang yang berpartisipasi untuknya. Amin Ya Robbal Alamin."
+    },
+    {
+      "id": 36,
+      "name_category": "Anak",
+      "author": "BISA LEARNING CENTRE",
+      "title": "Flashcard Bahasa Arab - 2500 Kosakata Bahasa Arab Sehari-Hari",
+      "image": "https://ebooksunnah.com/storage/media/LoJCt0hcEwos3nNSo70zE3i4bprYbVZ9swYlkpF0.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/flashcard-bahasa-arab-2500-kosakata-bahasa-arab-sehari-hari/download/4d6a49344e513d3d",
+      "description": "Flashcard Bahasa Arab - 2500 Kosakata Bahasa Arab Sehari-Hari"
+    },
+    {
+      "id": 35,
+      "name_category": "Anak",
+      "author": "BISA LEARNING CENTRE",
+      "title": "50 Hadits Pilihan Untuk Anak-Anak Seri 1",
+      "image": "https://ebooksunnah.com/storage/media/yIwMDvYVdvYwaod6WUUlfiNUsajYLmDrsmAWexGb.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/50-hadits-pilihan-untuk-anak-anak-seri-1/download/4d6a49344e773d3d",
+      "description": "50 Hadits Pilihan Untuk Anak-Anak Seri 1"
+    },
+    {
+      "id": 34,
+      "name_category": "Anak",
+      "author": "Hasan Zaher",
+      "title": "Semangat Membaca dan Menghafal Al-Qur’an",
+      "image": "https://ebooksunnah.com/storage/media/wsBW4BKBI5iG8efBBzgUh4DD8yCEfLEqbDDE4jcF.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/semangat-membaca-dan-menghafal-al-qur-an/download/4d6a4d354d513d3d",
+      "description": "Adik-adik rahimakumullah, tahukah kalian apa tujuan Al-Qur’an diturunkan? Lalu apa saja keutamaan membaca dan menghafalkannya? Yuk kita simak."
+    },
+    {
+      "id": 33,
+      "name_category": "Anak",
+      "author": "Abu Ubaidah Yusuf bin Mukhtar as-Sidawi",
+      "title": "40 Hadits Pilihan untuk Anak-anak",
+      "image": "https://ebooksunnah.com/storage/media/9p6NQTYL7jmaaIZsW3YbjQnxO49bKjD4Lm2IJEdL.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/40-hadits-pilihan-untuk-anak-anak/download/4d6a55324d413d3d",
+      "description": "Anak-anakku yang shalih dan pintar...\n\nKalian tahu kan bahwa kita sebagai umat lslam punya dua pedoman hidup, pertama adalah kitab suci Al-Qur'an dan yang kedua adalah hadits Nabi yang shohih.\nHadits-hadits Nabi itu banyak sekali, kita harus mempelajarinya agar kita punya pedoman hidup dan agar kita semakin cinta epada Nabi kita Muhammad shallalahu 'alaihi wa sallam serta bisa meniru beliau dalan masalah aqidah, ibadah, akhlak dan sebagainya.\n\nNah, anak-anakku sayang, buku ini berisi pilihan beberapa kata\u00ADkata mutiara Nabi Muhammad shallalahu 'alaihi wa sallam yang singkat, jelas tapi padat isi kandungannya dan diberi gambar berwarna agar mudah dihafal oleh kalian.\n\nSelamat menghafal dan mengamalkan pesan-pesan Nabi Muhammad shallalahu 'alaihi wa sallam.  Ayo, semangattt!!!"
+    },
+    {
+      "id": 32,
+      "name_category": "Anak",
+      "author": "Aisyah Zakiyah",
+      "title": "Adikku Sayang",
+      "image": "https://ebooksunnah.com/storage/media/cFHjcaIRXebFEX4cDzJjCrkA5K4l8ByQWZBGUPQy.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/adikku-sayang/download/4d6a55354e413d3d",
+      "description": "Masyaallah, Hafshoh punya adik. Adik yang lucu dan menggemaskan. Hafshoh berusaha menjadi kakak yang baik. Dia membantu ibu menjaga adik dan tidak berisik saat adik tertidur. Simak kisah lengkapnya yuk!"
+    },
+    {
+      "id": 31,
+      "name_category": "Anak",
+      "author": "Ummu Abdillah as-Sundawi",
+      "title": "Adab di Dalam Masjid",
+      "image": "https://ebooksunnah.com/storage/media/rhY8GmkYXCvgM5F4f8TP4dUze2Un6rYbTQFCbQV3.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/adab-di-dalam-masjid/download/4d6a59324e413d3d",
+      "description": "Yuk, teman-teman, kita belajar tentang adab di dalam masjid dengan mengunduh ebooknya."
+    },
+    {
+      "id": 30,
+      "name_category": "Aqidah",
+      "author": "Khālid bin Ḥamad Al-Khurayyif",
+      "title": "Hal-hal Yang Wajib Diketahui Oleh Seorang Muslim",
+      "image": "https://ebooksunnah.com/storage/media/T0I8i1ojRSnweP6PfUg29pon9iRLRhf9wrz35Tz5.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/hal-hal-yang-wajib-diketahui-oleh-seorang-muslim/download/4d6a4d334d773d3d",
+      "description": "Setiap muslim wajib mempelajari apa yang mesti dia ketahui terkait perkara agamanya, baik itu dalam perkara akidah, ibadah, ataupun muamalah. Ia tidak boleh berpaling dari agama Allah ﷻ dengan menampakkan keengganan untuk mempelajari dan mengamalkannya. Sebab itu, seorang muslim wajib mempelajari apa yang akan menjadikan agamanya lurus, supaya ia beribadah kepada Allah ﷻ atas dasar ilmu. Janganlah ia meniru orang-orang Nasrani yang beramal tanpa ilmu dan jangan pula orang- orang Yahudi yang memiliki ilmu namun tidak mereka amalkan. Kita memohon kepada Allah agar menjauhkan kita dari jalan mereka. Berdasarkan apa yang saya lihat berupa kejahilan banyak orang terhadap pokok-pokok agama serta dominasi kejahilan atas diri mereka, saya memandang perlu untuk menulis sebatas yang dimudahkan Allah ﷻ terkait perkara-perkara yang dibutuhkan oleh setiap muslim dan muslimah di dalam perkara akidah dan ibadah yang harus diketahui. Saya membagi buku ini ke dalam tiga bab: Bab Pertama: Pembahasan Akidah Bab Kedua: Pembahasan Ibadah Bab Ketiga: Pembahasan Muamalat"
+    },
+    {
+      "id": 29,
+      "name_category": "Aqidah",
+      "author": "Muhammad Jamil Zainu",
+      "title": "Inilah Akidahmu (Ambillah Akidahmu dari Al-Quran dan Hadist yang Shahih)",
+      "image": "https://ebooksunnah.com/storage/media/K5CbL5GzYM3Is0UpkrQxZ6NR8hhsTHNnzBGpiSUo.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/inilah-akidahmu-ambillah-akidahmu-dari-al-quran-dan-hadist-yang-shahih/download/4d6a51344d413d3d",
+      "description": "Ini adalah pertanyaan-pertanyaan penting dalam masalah akidah. Pertanyaan tersebut dijawab dengan menyebutkan dalil dari Al-Qur`an dan hadits supaya para pembaca merasa tentram dengan keakuratan jawaban. Karena akidah tauhid adalah pondasi kebahagiaan manusia di dunia dan akhirat.\n\nDan Allah lah yang aku pinta agar menjadikan tulisan ini bermanfaat untuk kaum muslimin dan menjadikannya ikhlas untuk Allah ta’ala."
+    },
+    {
+      "id": 28,
+      "name_category": "Aqidah",
+      "author": "Shalih bin Abdillah al-‘Ushaimiy",
+      "title": "8 Pilar Agama",
+      "image": "https://ebooksunnah.com/storage/media/fhJdLhBvTzg37H0HpHo9DDcQ90peDhGMGgpuY9po.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/8-pilar-agama/download/4d6a597a4e413d3d",
+      "description": "Pilar Pertama\n• MENGAGUNGKAN TAUHID DAN MENJAUHI SYIRIK ...1\nPilar Kedua\n• NIKMAT ISLAM ... 3\nPilar Ketiga\n• ITTIBA’/MENGIKUTI NABI DAN MENJAUDI BID’AH ... 5\nPilar Keempat\n• BERPEGANG TEGUH DENGAN WAHYU ... 8\nPilar Kelima\n• MEMULIAKAN ILMU DAN ULAMA ... 11\nPilar Keenam\n• MENJAGA PERSATUAN DAN MEWASPADAI PERPECAHAN ...13\nPilar Ketujuh\n• TAAT KEPADA PEMIMPIN ...15\nPilar Kedelapan\n• KUNCI SELAMAT DARI FITNAH ... 18"
+    },
+    {
+      "id": 27,
+      "name_category": "Aqidah",
+      "author": "Ibnu Taimiyyah",
+      "title": "Matan Mandzumah Al-Lamiyah",
+      "image": "https://ebooksunnah.com/storage/media/nklGy2LfzHqbkUaxnRgUlbusim8XySyzRMkglDfw.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/matan-mandzumah-al-lamiyah/download/4d6a59344e413d3d",
+      "description": "Daftar Isi\n• Bertanya menjadi sebab datangnya petunjuk\n• Tidak ada perubahan dalam aqidah salaf\n• Kewajiban mencintai para sahabat dan ahlul bait\n• Keutamaan para sahabat\n• Keyakinan tentang al Qur’an\n• Penetapan asma dan sifat tauqifiyyah\n• Metode dalam penetapan sifat\n• Kewajiban berpegang dengan al kitab dan sunnah bukan pendapat\n• Iman kepada ru’yatullah dan sifat nuzul\n• Iman kepada mizan dan telaga\n• Iman kepada shirath\n• Iman kepada surga dan neraka\n• Iman kepada adzab dan nikmat kubur\n• Aqidah imam yang empat\n• Bid’ah yang tercela"
+    },
+    {
+      "id": 26,
+      "name_category": "Akhlak",
+      "author": "Aris Munandar, Abdul Aziz bin Muhammad As-Sadhan",
+      "title": "Rambu-Rambu Berbakti Kepada Orangtua",
+      "image": "https://ebooksunnah.com/storage/media/K3pk6WXzxhNUv0SCogWCQbX1vHH4sR8yxvLIFx8N.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/rambu-rambu-berbakti-kepada-orangtua/download/4e7a6330",
+      "description": "Besarnya urgensi setiap anak untuk mengetahui rambu-rambu berbakti kepada oarangtua. Lebih-lebih penuntut ilmu, agar memahami bagaimana cara berbakti kepada orangtua, apa saja tindakan yang termasuk durhaka kepada orang tua, serta beberapa hal yang membuat tercabutnya hak orangtua dari bakti anak. Kami banyak mendapatkan ilmu dan faidah, bagaimana cara berbakti kepada orangtua di zaman ini dan mengingat betapa besar jasa orangtua kepada anaknya. Buku ini sebagai refleksi bagi setiap anak, apakah sudah menjadi anak yang berbakti kepada orangtua. Juga sebagai pelecut semangat agar dapat melaksanakan perintah Allah untuk berbuat baik kepada orangtua. "
+    },
+    {
+      "id": 25,
+      "name_category": "Akhlak",
+      "author": "Tim Ilmiah Indonesian Community Care Center",
+      "title": "Berhias Dengan Akhlak (Bagaimana Meneladani Budi Pekerti Nabi Dalam Peri Kehidupan)",
+      "image": "https://ebooksunnah.com/storage/media/OgWhFjoVyQslVBZNkpxTKk0H6aoPbpPmF5EEtShk.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/berhias-dengan-akhlak-bagaimana-meneladani-budi-pekerti-nabi-dalam-peri-kehidupan/download/4d546b784e673d3d",
+      "description": "Tim ilmiah Indonesian Community Care Center mencoba mengetengahkan pelajaran-pelajaran itu dalam serial dasar-dasar Islam. Mencakup sisi aqidah, fiqih, dan akhlak. Meski disajikan secara ringkas, namun mencakup pengetahuan minimal yang harus diketahui oleh seorang muslim. Karenanya, kami menyandarkan keilmiahannya pada dalil yang dapat dipertanggungjawabkan."
+    },
+    {
+      "id": 24,
+      "name_category": "Akhlak",
+      "author": "Abu Ubaidah Yusuf bin Mukhtar as-Sidawi",
+      "title": "Akhlak Wanita Muslimah",
+      "image": "https://ebooksunnah.com/storage/media/tMuSEOyByCLTa9ymdjzuWq1CLsrGOyDXKg7sb1Kq.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/akhlak-wanita-muslimah/download/4d6a4d794d673d3d",
+      "description": "Wanita adalah manusia yang terkena beban taklif sebagaimana lelaki.\n\nRasulullah bersabda:\nWanita itu semisal laki-laki (dalam hukum-pen)\n\nBeban taklif dan kewajiban yang diembankan Allah kepada seluruh kaum hawa ini harus ditunaikan dengan baik, benar dan sesuai syar’i. Beban taklif yang berupa kewajiban-kewajiban dalam perkara kehidupan agamanya. Seperti tatacara bersuci, shalat, puasa dan lain sebagainya dari perkara-perkara yang wajib.\n\nPerkara-perkara ini, tidak ada jalan untuk mengetahuinya kecuali dengan menuntut ilmu. Belajar dan mengetahuinya dengan pengetahuan yang pasti, tidak ragu dan terhindar dari kesalahan.\n\nImam Ibnul Jauzy berkata: “Wanita adalah insan yang terkena beban kewajiban sebagaimana lelaki. Wajib baginya menuntut ilmu dalam perkara-perkara yang wajib diketahui. Agar ia dapat menunaikan kewajibannya diatas keyakinan”."
+    },
+    {
+      "id": 23,
+      "name_category": "Akhlak",
+      "author": "Abdur Rahman bin Nashir As Sa’di",
+      "title": "Meniti Jalan Kebenaran Dalam Aqidah dan Akhlak",
+      "image": "https://ebooksunnah.com/storage/media/U7pqWxpZcEUDIO5H2sFhAl9C8gN1lwKZR4DDGhWk.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/meniti-jalan-kebenaran-dalam-aqidah-dan-akhlak/download/4d6a59354d673d3d",
+      "description": "Meniti Jalan Kebenaran Dalam Aqidah dan Akhlak.\n\nDiterjemahkan oleh Abu Ghozie As-Sundawie."
+    },
+    {
+      "id": 22,
+      "name_category": "Adab",
+      "author": "Shalih bin Abdullah bin Hamd Al-Ushaimi",
+      "title": "Hidup Indah Dengan Adab Mulia - 10 Adab Muslim Sehari-hari",
+      "image": "https://ebooksunnah.com/storage/media/WHSmpDaLq5NNjmJMYx6UJS9cbAA74u8cu86I6xi7.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/hidup-indah-dengan-adab-mulia-10-adab-muslim-sehari-hari/download/4f545531",
+      "description": "Jika kita perhatikan, banyak adab yang mulai terkikis dan terlupakan dari kehidupan kaum Muslimin sendiri. Padahal agama ini telah datang membawa ajaran yang sempurna, dan Nabi ﷺ diutus untuk menyempurnakan adab. Dan ketika kami membaca buku yang ditulis oleh murid Syaikh Sholeh Al-Ushoimi hafizhahullah yang diambil dari rekaman kajian beliau, maka kami dapatkan, bahwa buku ini memiliki manfaat yang sangat besar, jika dbacakan kepada anak-anak di rumah, kepada jamaah salat di masjid, kepada anak muda, dan kalangan lainnya. Namun karena buku ini masih berbahasa Arab, maka timbullah keinginan di dalam hati untuk menerjemahkannya ke dalam Bahasa Indonesia, agar manfaat dari buku ini tersebar luas kepada kaum Muslimin dan masyarakat di Indonesia. Dengan harapan, agar pembaca dan yang mendengarkan isi buku ini mau dan mampu memertahankan akhlak dan adabnya, serta memerbaikinya. Akhirnya, semoga Allah ﷻ catatkan ini sebagai pemberat timbangan bagi kita semua di Hari Kiamat kelak. Aamiin. (Syaiful Muhammad Khadafi)"
+    },
+    {
+      "id": 21,
+      "name_category": "Adab",
+      "author": "Abdurrazaq bin Abdil Muhsin Al Abbad",
+      "title": "Tuma’ninah Dalam Shalat",
+      "image": "https://ebooksunnah.com/storage/media/yKVMHQowBVWguBnoXttA1YMoUKJzFXHJctisQdkO.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/tuma-ninah-dalam-shalat/download/4d5455794d513d3d",
+      "description": "Di antara kesalahan besar yang terjadi pada sebagian orang yang shalat:\n\ntidak  tuma’ninah  ketika  shalat. Nabi shallallahu ‘alaihi  wa sallam menganggapnya sebagai pencuri yang paling buruk, sebagaimana disebutkan dalam Musnad Imam Ahmad dari Nabi shallallahu ‘alaihi wasallam, bahwa beliau bersabda,\n\n“Sejahat-jahat pencuri adalah yang mencuri dari shalatnya”. Para sahabat bertanya, “Wahai Rasulullah, bagaimana mencuri dari sholat?”. Rasulullah berkata,  “Dia  tidak   sempurnakan ruku  dan  sujudnya” (HR Ahmad no 11532, dishahihkan oleh al Albani dalam Shahihul Jami’ 986)\n\ndi terjemahkan dari kitab  Ta’zhimus Shalah karya Syaikh Abdurrazaq bin Abdil Muhsin Al Abbad "
+    },
+    {
+      "id": 20,
+      "name_category": "Adab",
+      "author": "Shalih bin Abdillah bin Hamd Al-‘Ushaimi",
+      "title": "10 Adab Sehari-hari",
+      "image": "https://ebooksunnah.com/storage/media/pFfouOjWN8788G4VIx1Kg8BUhYBG2SjEeOVkfSQ8.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/10-adab-sehari-hari/download/4d6a45784d413d3d",
+      "description":"Daftar Isi\n\n1. Adab Salam ... 2\n2. Adab Meminta Izin ... 3\n3. Adab Makan ... 4\n4. Adab Berbicara ... 5\n5. Adab Tidur ... 6\n6. Adab Bersin ... 7\n7. Adab Menguap ... 8\n8. Adab Bermajlis ... 9\n9. Adab Di Jalan ... 11\n10. Adab Berpakaian ... 12"
+    },
+    {
+      "id": 19,
+      "name_category": "Adab",
+      "author": "Yodha Ardell Ahmad",
+      "title": "Adab dan Akhlak Dalam Menuntut Ilmu dan Kesalahan-Kesalahannya",
+      "image": "https://ebooksunnah.com/storage/media/mW6q9UVT6eYlzGDZ6jxKr410z1ateLTQUiKucNUw.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/adab-dan-akhlak-dalam-menuntut-ilmu-dan-kesalahan-kesalahannya/download/4d6a4d304e413d3d",
+      "description": "Sesungguhnya para Malaikat akan meletakkan sayap-sayapnya bagi penuntut ilmu karena ridha terhadap mereka. Sesungguhnya orang yang berilmu akan dimintakan ampun oleh makhluk yang ada di langit dan bumi, bahkan yang ada di air.\n\nOleh karena itu perlu diketahui adab adab dan akhlak bagi para penuntut ilmu, saat dalam majelis ataupun diluar majelis. Dan telah ma’ruf hal ini pada para Salaf, dimana mereka lebih mementingkan adab daripada ilmu.\n\nIbnu Sirin Rahimahullah berkata :\n“Dahulu (para Salaf) belajar adab seperti ketika mereka belajar ilmu.”\n\nSebagian Salaf berkata pada anak mereka :\n“Wahai anakku, seandainya engkau belajar satu bab saja tentang adab, lebih aku sukai daripada belajar 70 bab tentang ilmu lainnya.”\n\nMaka disini kami merangkum dari beberapa kitab agar lebih mudah dipelajari bagi kaum muslimin.\n\nKami menyadari bahwa buku ini penuh kekurangan dari segala aspek dan kami tidak berharap apapun kecuali agar Allah menjadikan ini sebagai amalan yang ikhlas mengharap wajah Allah.\n\n"
+    },
+    {
+      "id": 18,
+      "name_category": "Adab",
+      "author": "Yulian Purnama",
+      "title": "Tebarkanlah Salam! Adab dan Fikih Mengucapkan Salam",
+      "image": "https://ebooksunnah.com/storage/media/2A6Uv5Hrf2nFD0cGSb8FhX76LiP1W2qbpJMmWQuh.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/tebarkanlah-salam-adab-dan-fikih-mengucapkan-salam/download/4d6a4d7a4f413d3d",
+      "description": "Umat Islam memiliki ucapan tahiyyah (penghormatan) yaitu ucapan “assalamu'alaikum”. Ucapan ini adalah ucapan yang indah, penuh makna yang mendalam dan penuh keberkahan. Allah Ta’ala berfirman:\n\n“Maka apabila kamu memasuki (suatu rumah dari) rumah-rumah (ini) hendaklah kamu memberi salam kepada (penghuninya yang berarti memberi salam) kepada dirimu sendiri, salam yang ditetapkan dari sisi Allah, yang diberkahi lagi merupakan kebaikan”. (QS. An Nur: 61)\n\nUcapan salam juga merupakan syiar Islam yang mulia. Sehingga kaum Muslimin mengenal sesamanya dari ucapan salam. Karena ia adalah ucapan yang menggetarkan hati setiap orang punya iman di dadanya. Dan Islam menghasung umatnya untuk menebarkan salam dimana pun ia berada. Karena ucapan ini secara ajaib dapat menimbulkan rasa cinta antara sesama Mukmin.\n\nNamun sayangnya banyak kaum Muslimin yang belum mengenal bagaimana adab-adab dalam mengucapkan salam. Agar ucapan salam begitu bermakna dan menjadi sebab datangnya keberkahan dari Allah dan menimbulkan rasa cinta. Sungguh pintu itu akan terbuka jika menggunakan kunci yang tepat. Demikian juga keutamaan salam, akan didapatkan jika kita menerapkan adab-adabnya dengan baik.\n\nRisalah yang ringkas ini membahas fikih dan adab seputar mengucapkan salam. Kami juga membahas bagaimana mengucapkan salam dalam shalat dan juga salam kepada Nabi Shallallahu'alaihi Wasallam.\n\nSemoga risalah ringkas ini menambah pemahaman kita tentang bagaimana adab- adab dalam mengamalkan amalan yang mulia ini. Semoga Allah jadikan amalan ini ikhlas hanya mengharapkan ridha Allah semata."
+    },
+    {
+      "id": 17,
+      "name_category": "Adab",
+      "author": "Abu Ubaidah Yusuf bin Mukhtar as-Sidawi",
+      "title": "Serial Adab Islam",
+      "image": "https://ebooksunnah.com/storage/media/i4TBOHFO80tuYvW3Yp405WCtCtTiR1zWUQGomZS2.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/serial-adab-islam/download/4d6a51354d413d3d",
+      "description": "Serial Adab Islam sehari-hari."
+    },
+    {
+      "id": 16,
+      "name_category": "Adab",
+      "author": "Sa'id bin Ali bin Wahf al-Qahthani",
+      "title": "Adab-Adab Haji",
+      "image": "https://ebooksunnah.com/storage/media/WhZx4zNut6sAoaB1B3RnqKkfxxlPTuFgiZLwUxJt.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/adab-adab-haji/download/4d6a55304d413d3d",
+      "description": "Buku ini memuat adab-adab yang sudah seharusnya diketahui dan diamalkan oleh orang yang melaksanakan ibadah haji dan umrah untuk memperoleh umrah yang diterima dan haji yang mabrur lagi penuh berkah sangat banyak, di antaranya adab yang wajib, adab yang sunnah, dan saya menyebutkan sebagian darinya sebagai contoh, bukan menyebutkan semuanya."
+    },
+    {
+      "id": 15,
+      "name_category": "Adab",
+      "author": "Abu Ubaidah Yusuf bin Mukhtar as-Sidawi",
+      "title": "40 Hadits Tentang Akhlak dan Adab",
+      "image": "https://ebooksunnah.com/storage/media/VNRDjIdQxAOpayV61w0gATKW2aUyxWJmdYpYkTaY.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/40-hadits-tentang-akhlak-dan-adab/download/4d6a55334f413d3d",
+      "description": "Buku yang ada di hadapan anda saat ini adalah kumpulan 40 Hadits Seputar Adab & Akhlak sebagai panduan untuk kajian ilmu tentang tema adab dan akhlak di majlis ilmu, yang bersumber dari hadits-hadits Nabi.\n\nHal ini sebagai langkah untuk memperbaiki akhlak dan adab kita sesuai dengan tuntunan Al-Qur’an dan As Sunnah, karena tema ini sangat penting untuk kita perhatikan bersama dan terus kita tanamkan kepada diri kita, keluarga, murid dan jamaah kita agar semua kita berhias dengan akhlak mulia.\n\nSemoga buku ini ikhlas hanya mengharapkan pahala dari Allah dan bermanfaat bagi manusia sehingga menjadi tabungan pahala di akherat kelak bagi penulis, pembaca dan siapapun yang menyebarkannya. Amin."
+    },
+    {
+      "id": 14,
+      "name_category": "Ramadhan",
+      "author": "Lucky Juniardi Abu Yusuf al-id al-Ma’muri",
+      "title": "Kultum Ramadhan Dengan Pribahasa Sehari-hari",
+      "image": "https://ebooksunnah.com/storage/media/UBuxc5P5Lhl6ox4aIKFT1ZBbhsV5NzTUihxywTn6.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/kultum-ramadhan-dengan-pribahasa-sehari-hari/download/4d6a51354e413d3d",
+      "description": "Kultum santri adalah sebuah catatan kecil (singkat) yang ditulis sebagai pegangan untuk santri atau siapa saja yang hendak kultum atau ceramah singkat. Awal mulanya hanya sebuah artikel singkat yang di tulis dan dikirim oleh penulis lewat WA (Whatshaap), dan juga pernah dijadikan kultum singkat di bulan Ramadhan ketika penulis pulang ke kampung halamannya, setelah itu digabung dan disusun kembali, sehingga jadilah sebuah buku kecil yang berjudul “Kultum Santri, Kultum Ramadhan Dengan Pribahasa Sehari-hari.” Terkadang santri kalau liburan panjang dan pulang ke rumahnya diminta oleh masyarakat atau takmir masjid untuk mengisi siraman rohani atau bahasa lainnya “kultum.” karena mungkin permintaan tersebut mendadak dan juga mungkin pemateri belum siap sehingga permintaan tersebut terkadang ditolak. Padahal momen tersebut adalah kesempatan yang tepat. Apa lagi liburannya kebetulan di bulan Ramadhan, karena saat itulah hati orang mudah untuk menerima nasehat dan kebaikan."
+    },
+    {
+      "id": 13,
+      "name_category": "Ramadhan",
+      "author": "Abdullah bin Shalih al-Fauzan",
+      "title": "Hadits-Hadits Pilihan Seputar Ramadhan",
+      "image": "https://ebooksunnah.com/storage/media/2MZjgpPMouGqEsacWF6EYl6ozFSYb9n1NxiFauQ3.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/hadits-hadits-pilihan-seputar-ramadhan/download/4d6a517a4d673d3d",
+      "description": "Berikut ini adalah “30 Hadits Pilihan Seputar Puasa” yang banyak kami ambil dari kitab “Mukhtashar Ahadits Shiyam” karya Syaikh Abdullah bin Shalih al-Fauzan sebagai bekal untuk menyambut bulan Ramadhan agar kita bisa beribadah di bulan Ramadhan beradasarkan ilmu dan tuntunan dari Rasulullah. Kami pilih 30 hadits agar bisa dijadikan materi kultum atau video pendek setiap hari di bulan Ramadhan satu hadits, atau dijadikan sebagai modul Daurah Pra Ramadhan. Semoga Allah memberkahi usaha kita agar bermanfaat di akherat kelak."
+    },
+    {
+      "id": 12,
+      "name_category": "Ramadhan",
+      "author": "Muhammad Shalih al Munajjid",
+      "title": "15 Faidah di Dalam Menyambut Ramadhan",
+      "image": "https://ebooksunnah.com/storage/media/XX6elquoJz5kxBDgkkFNdp69LAFTyWxhwLZ1VnZK.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/15-faidah-di-dalam-menyambut-ramadhan/download/4d546b784e413d3d",
+      "description": "Berikut ini adalah kumpulan faidah dan ringkasan yang berkaitan dengan menyambut Ramadhan."
+    },
+    {
+      "id": 11,
+      "name_category": "Ramadhan",
+      "author": "Aris Munandar",
+      "title": "Bila Ini Ramadhan Terakhirku",
+      "image": "https://ebooksunnah.com/storage/media/KZ3qmDzNHcP5B7xDoa1aWTbtqbgLieJfcjtrNJJc.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/bila-ini-ramadhan-terakhirku/download/4d5463354e773d3d",
+      "description": "Buku yang ringkas ini berjudul “BILA INI RAMADHAN TERAKHIRKU, dan 60 amal sholih yang bisa kita lakukan di bulan Ramadhan” merupakan transkrip dari kajian Ustadz Dr. Aris Munandar, S.S, M.P.I hafidzahullahu. Kajian ini diselenggarakan oleh KIPMI (Komunitas Ilmuwan dan Profesional Muslim Indonesia), Jumat 12 Sya’ban 1443H/ 11 Maret 2022. Buku ini telah selesai di muroja’ah dan ditambahkan sedikit penyesuaian oleh Ustadz Dr. Aris Munandar, S.S, M.P.I hafidzahullahu. Di dalam buku ini berisi pesan dan nasihat ringkas agar kita mempersiapkan Ramadhan yang akan datang dengan sebaik mungkin, karena bisa jadi ini Ramadhan terakhir kita. Tak lupa di dalam buku ini juga telah disampaikan 60 amal sholih yang bisa kita lakukan di bulan Ramadhan."
+    },
+    {
+      "id": 10,
+      "name_category": "Ramadhan",
+      "author": "Yulian Purnama",
+      "title": "Beberapa Salah Kaprah Seputar Puasa Ramadhan",
+      "image": "https://ebooksunnah.com/storage/media/9xZNOWkFCiQKMviYKUnwsTTdcHfBMRvpbYX57WLB.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/beberapa-salah-kaprah-seputar-puasa-ramadhan/download/4d5467344e513d3d",
+      "description": "Ibadah puasa Ramadhan adalah ibadah yang agung yang Allah syariatkan di bulan yang penuh keberkahan. Bahkan ibadah puasa adalah salah satu dari rukun Islam yang lima. Dari Ibnu Umar radhiallahu’anhuma, Rasulullah Shallallahu’alaihi Wasallam bersabda: “Islam dibangun di atas 5 perkara: bersyahadat bahwa tiada sesembahan yang haq kecuali Allah dan Muhammad adalah utusan Allah, mendirikan shalat, membayar zakat, haji ke Baitullah dan puasa Ramadhan”. (HR. Al Bukhari no.8, Muslim no. 16) Maka sudah semestinya seorang Muslim memberikan perhatian yang besar kepada ibadah puasa Ramadhan. Pada realita di masyarakat, banyak kaum Muslimin kurang memberikan perhatian yang besar kepada ibadah puasa mereka. Sehingga mereka enggan menuntut ilmu agama dan tidak mempelajari tata cara ibadah puasa dengan benar. Sehingga banyak terjadi kesalah-pahaman seputar ibadah puasa ini. Dalam tulisan singkat ini, kami akan jelaskan secara ringkas beberapa kesalah-pahaman tersebut. Semoga menjadi pencerahan bagi masyarakat."
+    },
+    {
+      "id": 9,
+      "name_category": "Ramadhan",
+      "author": "Muhammad Abduh Tuasikal",
+      "title": "Ramadhan Bersama Keluarga",
+      "image": "https://ebooksunnah.com/storage/media/UEsHBTOFXYP9iapgoGm1VVYehe2InWHHlxAKNu55.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/ramadhan-bersama-keluarga/download/4d5467334e513d3d",
+      "description": "Ini adalah buku materi parenting sederhana yang kami susun untuk jadi ilmu yang manfaat pada ayah bunda. Moga buku ini bisa diajarkan pada anak-anak di rumah dengan mudah. Anak sangat penting diajarkan sedari kecil, agar saat balig lebih mudah menjalankan kewajiban rukun Islam yang satu ini. Walaupun memang anak-anak belum sampai dikenakan beban syariat sampai mereka balig. Buku ini berisi 27 materi yang membahas keutamaan Ramadhan, keutamaan puasa, hukum puasa, doa dan dzikir pada bulan Ramadhan, skedul anak selama Ramadhan, cara anak khatam Al-Qur’an dan adab membaca Al-Qur’an, serta hal-hal sia-sia yang mesti dijauhi saat berpuasa."
+    },
+    {
+      "id": 8,
+      "name_category": "Ramadhan",
+      "author": "Nor Kandir",
+      "title": "Terjemah Kitab Puasa - Shohih Al-Bukhori",
+      "image": "https://ebooksunnah.com/storage/media/g9jPm5z6e5IYH1w6IUWVriGreLY6bpNzwd4y566c.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/terjemah-kitab-puasa-shohih-al-bukhori/download/4d5463304d413d3d",
+      "description": "Terjemah Kitab Puasa - Shohih Al-Bukhori"
+    },
+    {
+      "id": 7,
+      "name_category": "Ramadhan",
+      "author": "Tim Bimbingan Islam",
+      "title": "Menyambut Bulan Ramadhan",
+      "image": "https://ebooksunnah.com/storage/media/D2yre0MkAZOY9hUbuXWwkDIKcLS40qtEGctdlBrV.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/menyambut-bulan-ramadhan/download/4d5467784e513d3d",
+      "description": "Sebentar lagi kita akan bertemu kembali, insyaallah, dengan bulan Ramadhan, bulan yang mulia dan penuh keberkahan. Tentu semangat dan kecintaan kita perlu disegarkan kembali dengan membaca hadits-hadits tentang keutamaan bulan tersebut. Agar kita semakin berharap segera bertemu, semakin cinta, dan semakin sadar akan agungnya bulan itu. Saat Ramadhan tiba, hati kita pun telah memiliki bekal dan persiapan untuk mengisinya dengan banyak amalan taat."
+    },
+    {
+      "id": 6,
+      "name_category": "Ramadhan",
+      "author": "Sofyan Chalid bin Idham Ruray",
+      "title": "Fikih Puasa - Ringkasan Pembahasan, Fatwa dan Tarjih",
+      "image": "https://ebooksunnah.com/storage/media/WnxR4yo73vdGnX6RKxroUMlUBCgLkf0CipOAFWMl.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/fikih-puasa-ringkasan-pembahasan-fatwa-dan-tarjih/download/4d5449354d773d3d",
+      "description": "Alhamdulillah, dengan pertolongan Allah ‘azza wa jalla kami bisa menyusun buku ini. Kami berusaha dalam buku ini:\n- Menyebutkan pembahasan seringkas mungkin.\n- Mengumpulkan banyak permasalahan yang dibutuhkan kaum muslimin, semampu kami.\n- Menetapkan pendapat yang paling kuat insya Allah, ketika ulama berbeda pendapat. Dan dalam menetapkan pendapat yang paling kuat, kami berusaha melihat dalil-dalilnya dan keterangan para ulama."
+    },
+    {
+      "id": 5,
+      "name_category": "Ramadhan",
+      "author": "Muhammad Iqbal",
+      "title": "Bahagia Merindu Ramadhan (Bekal Menyambut Bulan Ramadhan)",
+      "image": "https://ebooksunnah.com/storage/media/hQtFLL9x7sW9BItLjnGaDHqJkKWqm8RuaXstjHO2.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/bahagia-merindu-ramadhan-bekal-menyambut-bulan-ramadhan/download/4d6a51344d673d3d",
+      "description": "Berisi tentang nasihat kepada orang-orang muslim agar mempersiapkan diri untuk menghadapi bulan Ramadhan, sebagaimana kita akan memuliakan tamu spesial yang datang ke rumah, maka sepatutnya kaum muslimin juga harus menyambut tamu agung yaitu bulan suci Ramadhan. Kita persiapkan jiwa dan raga kita, fisik dan batin kita serta amalan2 yang bisa kita lakukan ketika bulan Ramadhan tiba."
+    },
+    {
+      "id": 4,
+      "name_category": "Ramadhan",
+      "author": "Ratna A. Arilia Y.",
+      "title": "Ceria di Bulan Ramadhan",
+      "image": "https://ebooksunnah.com/storage/media/3XfCh9OaQRzliJGpbNTD4oSYPWWDbUiK1ppA1JQ0.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/ceria-di-bulan-ramadhan/download/4d6a51334e413d3d",
+      "description": "Merupakan buku panduan fikih puasa ringkas untuk anak, edisi pertama yang diterbitkan oleh Yayasan Anak Muslim Ceria.\n\nBerisi panduan menjalankan puasa di bulan Ramadan, game seru dan tabel berbagai aktivitas di bulan Ramadan.\n\nSemoga buku ini bisa menjadi wasilah untuk orang tua dalam mengajarkan fikih puasa secara sederhana serta membersamai anak menjalankan puasa dengan penuh keceriaan."
+    },
+    {
+      "id": 3,
+      "name_category": "Ramadhan",
+      "author": "Muhammad Abduh Tuasikal",
+      "title": "Fikih Puasa untuk Anak",
+      "image": "https://ebooksunnah.com/storage/media/g7Mdx09sAGqO9PVTOl4mURNcLzfVd6zohc5W1AHI.jpg",
+      "link": "https://ebooksunnah.com/en/ebooks/fikih-puasa-untuk-anak/download/4e54593d",
+      "description": "Ini adalah buku materi parenting sederhana yang kami susun untuk jadi ilmu yang manfaat pada ayah bunda. Moga buku ini bisa mengajarkan anak-anak di rumah dengan mudah. Anak sangat penting diajarkan sedari kecil, agar saat balig lebih mudah menjalan- kan kewajiban rukun Islam yang satu ini. Walaupun memang anak-anak belum sampai dikenakan beban syariat sampai mereka balig.\n\nBuku ini berisi 21 materi yang membahas keutamaan Ramadan, keutamaan puasa, hukum puasa (dengan pendekatan pada fikih Syafii), doa dan dzikir pada bulan Ramadan, skedul anak selama Ramadan, cara anak khatam Alquran, serta hal-hal sia-sia dan mak- siat yang mesti dijauhi saat berpuasa. Buku ini berisi pembahasan tambahan tentang shalat yang cukup di rumah saja di saat wabah melanda."
+    },
+    {
+      "id": 2,
+      "name_category": "Ramadhan",
+      "author": "Tim Redaksi Muslimah.Or.Id",
+      "title": "Bersemilah Ramadhan",
+      "image": "https://static.muslimah.or.id/wp-content/uploads/2018/05/IMG-20180518-WA0003.jpg",
+      "link": "https://drive.google.com/uc?export=download&id=1IahHZFOS-FtH6qHbptOiyfYptMlvQ1Ii",
+      "description": "Bersemilah Ramadhan…\ndi hati orang-orang yang beriman.\nHadirnya disambut kebahagiaan,\nDetik-detiknya diisi ketaatan,\n\nSudah siap kencangkan ikat pinggang?\nUntuk “dia” yang segera akan bertandang..\n\nKiranya kita menyiapkan diri, agar Ramadhan tak hanya datang dan kemudian menghilang (tanpa meraih banyak keutamaannya).\n\nE-book ini adalah E-book kumpulan artikel pilihan seputar ramadhan yang dimuat di website Muslimah.Or.Id.\n\nBerisi artikel tentang ilmu, nasihat, penyemangat dan motivasi khususnya bagi muslimah untuk mempersiapkan diri menyambut ramadhan, produktif selama ramadhan dan istiqomah beramal setelah ramadhan."
+    },
+    {
+      "id": 1,
+      "name_category": "Ramadhan",
+      "author": "Ahmad Syaikhu",
+      "title": "Ramadhan Di Tengah Wabah",
+      "image": "https://scontent.fbdo3-1.fna.fbcdn.net/v/t1.6435-9/94381753_2936865569760835_7737718994920013824_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=3y0tiAlPEuUAX-P6d1c&_nc_ht=scontent.fbdo3-1.fna&oh=00_AfASjpQo-w_M_zRv1JP4CVTWIIFLOg6bFL6iwuh6IzxSRg&oe=652B2972",
+      "link": "https://fraksi.pks.id/app/uploads/2020/05/e-BOOK-RAMADHAN-AHMAD-SYAIKHU.pdf",
+      "description": "Alhamdulillah, buku ini terbit. Sengaja saya tulis diniatkan untuk menjadi penyambung silaturahim dengan masyarakat dalam suasana mewabahnya Covid-19 pada Ramadhan 1441 H, di mana banyak keterbatasan untuk bisa bertemu secara langsung.\nDi tengah pandemi Corona yang luar biasa, mudah-mudahan buku sederhana ini dapat menjadi “teman” yang tepat. Membuat keimanan kita meningkat dan imunitas tubuh juga menguat. \nSemoga Allah SWT permudah kita menjalani ibadah Ramadhan 1441 H dan melindungi kita dari wabah Corona serta segera Allah angkat wabah ini. Aamiin."
+    }
+  ],
+
+
+  "Guide": [
+	{
+      "id":1,
+      "name_category": "Muslim",
+      "title":"Dzikir setelah Shalat Fardhu",
+      "image":"file:///android_asset/guide/gambar/list.png",
+      "link":"file:///android_asset/guide/1-dzikir-shalat-fardu.html",
+      "description":"Dzikir setelah shalat dengan desan menarik dan keren"
+    },
+    {
+      "id":1,
+      "name_category": "Muslim",
+      "title":"Dzikir setelah Shalat Fardhu",
+      "image":"file:///android_asset/guide/gambar/list.png",
+      "link":"file:///android_asset/guide/1-dzikir-shalat-fardu.html",
+      "description":"Dzikir setelah shalat dengan desan menarik dan keren"
+    },
+    {
+      "id":2,
+      "name_category": "Muslim",
+      "title":"Dzikir setelah Shalat Sunnah",
+      "image":"file:///android_asset/guide/gambar/list.png",
+      "link":"file:///android_asset/guide/2-dzikir-shalat-sunnah.html",
+      "description":"Dzikir setelah shalat dengan desan menarik dan keren"
+    },
+    {
+      "id":3,
+      "name_category": "Muslim",
+      "title":"Dzikir-Dzikir Pilihan",
+      "image":"file:///android_asset/guide/gambar/list.png",
+      "link":"file:///android_asset/guide/3-dzikir-pilihan.html",
+      "description":"Dzikir setelah shalat dengan desan menarik dan keren"
+    },
+    {
+      "id":4,
+      "name_category": "Muslim",
+      "title":"Doa-doa pilihan setelah Shalat Fardhu",
+      "image":"file:///android_asset/guide/gambar/list.png",
+      "link":"file:///android_asset/guide/4-doa-shalat-fardu.html",
+      "description":"Dzikir setelah shalat dengan desan menarik dan keren"
+    },
+    {
+      "id":5,
+      "name_category": "Muslim",
+      "title":"Doa-doa Shalat Sunnah",
+      "image":"file:///android_asset/guide/gambar/list.png",
+      "link":"file:///android_asset/guide/5-doa-shalat-sunnah.html",
+      "description":"Dzikir setelah shalat dengan desan menarik dan keren"
+    },
+    {
+      "id":6,
+      "name_category": "Muslim",
+      "title":"Dzikir yang dibaca sebelum terbit matahari (pagi)",
+      "image":"file:///android_asset/guide/gambar/list.png",
+      "link":"file:///android_asset/guide/6-dzikir-pagi.html",
+      "description":"Dzikir setelah shalat dengan desan menarik dan keren"
+    },
+    {
+      "id":7,
+      "name_category": "Muslim",
+      "title":"Dzikir yang dibaca sebelum terbenam matahari (petang)",
+      "image":"file:///android_asset/guide/gambar/list.png",
+      "link":"file:///android_asset/guide/7-dzikir-petang.html",
+      "description":"Dzikir setelah shalat dengan desan menarik dan keren"
+    },
+    {
+      "id":8,
+      "name_category": "Muslim",
+      "title":"Dzikir Pagi dan Petang",
+      "image":"file:///android_asset/guide/gambar/list.png",
+      "link":"file:///android_asset/guide/8-dzikir-pagi-petang.html",
+      "description":"Dzikir setelah shalat dengan desan menarik dan keren"
+    },
+    {
+      "id":9,
+      "name_category": "Kalender Jawa",
+      "title":"Kalender Jawa Lengkap",
+      "image":"file:///android_asset/guide/gambar/list.png",
+      "link":"file:///android_asset/guide/9-kalender-jawa.html",
+      "description":"Kalender Jawa Lengkap Sepanjang Masa"
+    },
+    {
+      "id":10,
+      "name_category": "Audio Quran",
+      "title":"Al-Quran Audio 30 Juz",
+      "image":"file:///android_asset/guide/gambar/list.png",
+      "link":"file:///android_asset/guide/audioquran/audioquran.html",
+      "description":"Al-Quran Audio 30 Juz Misyari Rasyid Al-'Afasi"
+    }
+  ]
+}
