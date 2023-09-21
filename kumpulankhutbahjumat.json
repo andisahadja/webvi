@@ -126,6 +126,24 @@
 
   "Data": [
     {
+      "id": 63,
+      "name_category": "Khutbah",
+      "author": "H. Khairul Anam, S.H., M.Kes.",
+      "title": "Kumpulan Khutbah Jum’at Inspiratif",
+      "image": "https://i.ibb.co/3FsdmwL/khutbahjumatinspiratif.png",
+      "link": "http://eprints.uniska-bjm.ac.id/212/1/Kumpulan%20Khutbah%20Jum%27at%20Inspiratif.pdf",
+      "description": "Materi Kumpulan Khutbah Jum’at Inspiratif"
+    },
+    {
+      "id": 62,
+      "name_category": "Khutbah",
+      "author": "Dr. H. Abdul Helim, S.Ag., M.Ag.",
+      "title": "Khutbah Jum'at 7 Menit",
+      "image": "https://i.ibb.co/gDLfnxX/khutbahjumat7menit.png",
+      "link": "http://digilib.iain-palangkaraya.ac.id/3617/1/Ebook%20KHUTBAH%20JUMAT%207%20MENIT.pdf",
+      "description": "Materi Khutbah Jum'at 7 Menit"
+    },
+    {
       "id": 61,
       "name_category": "Khutbah",
       "author": "Departemen Ilmiyah HASMI",
