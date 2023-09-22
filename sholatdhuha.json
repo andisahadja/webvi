@@ -126,6 +126,51 @@
 
   "Data": [
     {
+      "id": 68,
+      "name_category": "Fiqih",
+      "author": "Yulian Purnama",
+      "title": "Berwudhu Dengan Ilmu",
+      "image": "https://cdnm.muslim.or.id/wp-content/uploads/2023/08/berwudu-dengan-ilmu.jpg",
+      "link": "https://kangaswad.files.wordpress.com/2023/08/berwudhu-dengan-ilmu-ebookrev1.pdf",
+      "description": "Penjelasan ringkas tata cara berwudu"
+    },
+    {
+      "id": 67,
+      "name_category": "Dzikir & Doa",
+      "author": "Dr. Muhammad Arifin Badri, M.A.",
+      "title": "Agar Harta Kita Penuh Berkah",
+      "image": "https://artikel.alfurqongresik.com/wp-content/uploads/2020/04/Agar-Harta-Kita-Penuh-Berkah_001.png",
+      "link": "https://artikel.alfurqongresik.com/wp-content/uploads/2020/04/Agar-Harta-Kita-Penuh-Berkah.pdf",
+      "description": "Agar Harta Kita Penuh Berkah"
+    },
+    {
+      "id": 66,
+      "name_category": "Akhlak",
+      "author": "Abu Ubaidah Yusuf bin Mukhtar As Sidawi",
+      "title": "Kunci Sukses Rumah Tangga Bahagia",
+      "image": "https://artikel.alfurqongresik.com/wp-content/uploads/2020/04/Kunci-Kunci-Sukses-Rumah-Tangga-Bahagia_001.png",
+      "link": "https://artikel.alfurqongresik.com/wp-content/uploads/2020/04/Kunci-Kunci-Sukses-Rumah-Tangga-Bahagia.pdf",
+      "description": "Kunci Sukses Rumah Tangga Bahagia"
+    },
+    {
+      "id": 65,
+      "name_category": "Fiqih",
+      "author": "Abu Ubaidah Yusuf bin Mukhtar As Sidawi",
+      "title": "37 Masalah Populer",
+      "image": "https://artikel.alfurqongresik.com/wp-content/uploads/2020/04/Catatan-Terhadap-Buku-%E2%80%9C37-Masalah-Populer%E2%80%9D_001.png",
+      "link": "https://artikel.alfurqongresik.com/wp-content/uploads/2020/04/Catatan-Terhadap-Buku-%E2%80%9C37-Masalah-Populer%E2%80%9D.pdf",
+      "description": "Catatan Terhadap Buku 37 Masalah Populer KARYA H. ABDUL SHOMAD, Lc., M.A."
+    },
+    {
+      "id": 64,
+      "name_category": "Dzikir & Doa",
+      "author": "Abu Aniisah Syahrul Fatwa bin Lukman",
+      "title": "Agar Do’a Kita Dikabulkan",
+      "image": "https://artikel.alfurqongresik.com/wp-content/uploads/2019/01/PDF-Agar-Doa-Kita-Dikabulkan-REVISI_001.png",
+      "link": "https://artikel.alfurqongresik.com/wp-content/uploads/2019/01/PDF-Agar-Doa-Kita-Dikabulkan-REVISI.pdf",
+      "description": "Kiat-kiat Agar Do’a Kita Dikabulkan"
+    },
+    {
       "id": 63,
       "name_category": "Khutbah",
       "author": "H. Khairul Anam, S.H., M.Kes.",
