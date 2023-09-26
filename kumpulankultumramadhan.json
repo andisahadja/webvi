@@ -126,6 +126,69 @@
 
   "Data": [
     {
+      "id": 75,
+      "name_category": "Aqidah",
+      "author": "Muhammad Ahmad Vad’aq",
+      "title": "Bahas Cerdas Kupas Tuntas Dalil Syari Maulid Nabi",
+      "image": "https://i.postimg.cc/kgX94HNr/bahas-maulid-nabi.png",
+      "link": "https://ia803106.us.archive.org/22/items/etaoin/Bahas%20Cerdas%20%20Kupas%20Tuntas%20Dalil%20Syari%20Maulid%20Nabi.pdf",
+      "description": "Mari kita baca dengan cermat buku karya Imam Suyuthi ini agar kita dapat memahami masalah dengan kepala yang dingin dan jauh dari keangkuhan, Bahas Cerdas Kupas Tuntas Dalil Syari Maulid Nabi"
+    },
+    {
+      "id": 74,
+      "name_category": "Dzikir & Doa",
+      "author": "Muhammad bin Husein al-Habsyi",
+      "title": "Terjemah Maulid Simtudduror",
+      "image": "https://i.postimg.cc/YS5J1DFC/terjemah-kitab-maulid-simtudduror.png",
+      "link": "https://drive.google.com/uc?export=download&id=1Y05vi41xRJeqcj5pFoDl6LnshbWHFzmX",
+      "description": "Terjemah Maulid Simtudduror (Maulid Habsyi) Karya Muhammad bin Husein al-Habsyi"
+    },
+    {
+      "id": 73,
+      "name_category": "Dzikir & Doa",
+      "author": "Muhammad bin Husein al-Habsyi",
+      "title": "Kitab Maulid Simtudduror",
+      "image": "https://i.postimg.cc/dtJcHfx7/kitab-maulid-simtudduror.png",
+      "link": "https://drive.google.com/uc?export=download&id=1_H9NG-SAFqbP5DBgft50J23eMV1LPiY0",
+      "description": "Kitab Maulid Simtudduror (Maulid Habsyi) Karya Muhammad bin Husein al-Habsyi"
+    },
+    {
+      "id": 72,
+      "name_category": "Dzikir & Doa",
+      "author": "Imam al-Bushiri",
+      "title": "Terjemah Kitab Qasidah Burdah",
+      "image": "https://i.postimg.cc/g2JFdZdm/terjemah-kitab-maulid-burdah.png",
+      "link": "https://drive.google.com/uc?export=download&id=1iAlqcWNKfCfl0fuVvQyaO0uXtiEl5pvF",
+      "description": "Terjemah Kitab Qasidah Burdah Karya Imam al-Bushiri"
+    },
+    {
+      "id": 71,
+      "name_category": "Dzikir & Doa",
+      "author": "Imam al-Bushiri",
+      "title": "Kitab Maulid Burdah Arab",
+      "image": "https://i.postimg.cc/3NF5rjdJ/kitab-maulid-burdah.png",
+      "link": "https://drive.google.com/uc?export=download&id=1ggS0YOT4Zd6NU2xN-MDqmVEAap2a6_5S",
+      "description": "Kitab Maulid Burdah Arab Karya Imam al-Bushiri"
+    },
+    {
+      "id": 70,
+      "name_category": "Dzikir & Doa",
+      "author": "Imam Jalil Abdurrahman al-Diba’i",
+      "title": "Terjemahan Maulid Diba’I",
+      "image": "https://i.postimg.cc/dtnPz9b5/terjemah-kitab-maulid-dibai.png",
+      "link": "https://drive.google.com/uc?export=download&id=13GVmTSZP-9MYTdoORl434j6zTBnk6Nxb",
+      "description": "Terjemahan Maulid Diba’I Karangan Imam Jalil Abdurrahman al-Diba’i"
+    },
+    {
+      "id": 69,
+      "name_category": "Dzikir & Doa",
+      "author": "Imam Jalil Abdurrahman al-Diba’i",
+      "title": "Kitab Maulid Diba’I Arab",
+      "image": "https://i.postimg.cc/rpDkGtYQ/kitab-maulid-dibai.png",
+      "link": "https://drive.google.com/uc?export=download&id=10uKg9z6FdjyInWAlTD0tsa5WU-JLFEdA",
+      "description": "Kitab Maulid Diba’I Arab Karangan Imam Jalil Abdurrahman al-Diba’i"
+    },
+    {
       "id": 68,
       "name_category": "Fiqih",
       "author": "Yulian Purnama",
