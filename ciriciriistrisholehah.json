@@ -126,6 +126,42 @@
 
   "Data": [
     {
+      "id": 79,
+      "name_category": "Aqidah",
+      "author": "Prof. Dr. H. Abdullah M.Si.",
+      "title": "The Power of Muhasabah",
+      "image": "https://drive.google.com/uc?export=download&id=1cswGW5redYjtRCauaDXsd2MpwmqC6Jz1",
+      "link": "https://drive.google.com/uc?export=download&id=1Cz8_AyFVJffX2ZO5V-EKKehh4T8yGu-W",
+      "description": "The Power of Muhasabah - Manajemen Hidup Bahagia Dunia Akhirat (111 Halaman) - Prof. Dr. H. Abdullah M.Si."
+    },
+    {
+      "id": 78,
+      "name_category": "Akhlak",
+      "author": "Yadi Saeful Hidayat",
+      "title": "Merindukanmu Duhai Muhammad",
+      "image": "https://drive.google.com/uc?export=download&id=1CMdEMtk7aVsLAZnSjJY9MRNOENIbhhiJ",
+      "link": "https://drive.google.com/uc?export=download&id=1MsSGff9RWbjyyi0VbUtEzV09vwZJ6Gt8",
+      "description": "Rindu kita kepada Muhammad Saw. adalah rindu yang berjarak. Tak pernah kita melihat sosoknya; seperti juga Muhammad Saw. yang tak pernah menyaksikan kita tapi terus mendoakan. Tak pernah kita bersua dengannya; seperti juga Muhammad Saw. yang tak menjumpai kita, tapi sangat ingin menyambut kita di telaganya. Dan karenanya, adakah harapan yang lebih tinggi daripada keinginan untuk bertemu dan memeluk sang Nabi?\n\nPupuklah harapan itu, rawatlah kerinduan kita kepada sosok Nabi yang mulia, Muhammad Al-Mushthafâ. Bagaimana cara merawatnya? Buatlah Nabi kita, Muhammad Saw., begitu spesial tersimpan di hati. Laku kita adalah lakunya, ucap kita adalah ucapnya, dan segala yang tertampilkan pada diri kita sebentuk cara untuk meneladani sosok Muhammad Saw."
+    },
+    {
+      "id": 77,
+      "name_category": "Aqidah",
+      "author": "H. Iding Achmadin & DR. Achmad MBA",
+      "title": "Kisah-Kisah Dalam Alquran",
+      "image": "https://drive.google.com/uc?export=download&id=1D0HTKH-QZp3zVZNYHRYDoAZLUUWrgww9",
+      "link": "https://drive.google.com/uc?export=download&id=1z2c_adbiJtygauCwr_D5a4xhx1t6oVh3",
+      "description": "Kisah-Kisah Dalam Alquran (255 Halaman) - H. Iding Achmadin & DR. Achmad MBA"
+    },
+    {
+      "id": 76,
+      "name_category": "Dzikir & Doa",
+      "author": "Tim Muslim Amanah",
+      "title": "Rahasia Rezeki Berlimpah dari Quran & Sunnah",
+      "image": "https://drive.google.com/uc?export=download&id=1B02jr5idc-yJGsVNNNRploVYjKAFIfBH",
+      "link": "https://drive.google.com/uc?export=download&id=1THjPVjDhzWsUDt_DXwvCqL0v1kl548Vt",
+      "description": "Rahasia Rezeki Berlimpah dari Quran & Sunnah (99 Halaman) - Tim Muslim Amanah"
+    },
+    {
       "id": 75,
       "name_category": "Aqidah",
       "author": "Muhammad Ahmad Vad’aq",
@@ -157,7 +193,7 @@
       "name_category": "Dzikir & Doa",
       "author": "Imam al-Bushiri",
       "title": "Terjemah Kitab Qasidah Burdah",
-      "image": "https://drive.google.com/uc?export=download&id=Bfo2B9KHIemQBNDpD5R9P",
+      "image": "https://drive.google.com/uc?export=download&id=1Gxllx2HvA_-Bfo2B9KHIemQBNDpD5R9P",
       "link": "https://drive.google.com/uc?export=download&id=1iAlqcWNKfCfl0fuVvQyaO0uXtiEl5pvF",
       "description": "Terjemah Kitab Qasidah Burdah Karya Imam al-Bushiri"
     },
