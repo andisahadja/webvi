@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads" : "ADMOB",
-      "select_backup_ads" :"APPLOVIN-D",
+      "select_backup_ads" :"null",
 
       "open_ads_admob" : "ca-app-pub-4032018959181535/6832147176",
       "open_ads_alien" : "null",
@@ -11,8 +11,8 @@
       "main_ads_banner" : "ca-app-pub-4032018959181535/1925423248",
       "main_ads_intertitial" : "ca-app-pub-4032018959181535/3046933220",
 
-      "backup_ads_banner" : "f4a7afccb1f0fdbf",
-      "backup_ads_intertitial" : "0d969c10f4a80105",
+      "backup_ads_banner" : "null",
+      "backup_ads_intertitial" : "null",
 
       "interval_intertitial" : 3,
 
@@ -126,11 +126,47 @@
 
   "Data": [
     {
+      "id": 79,
+      "name_category": "Aqidah",
+      "author": "Prof. Dr. H. Abdullah M.Si.",
+      "title": "The Power of Muhasabah",
+      "image": "https://drive.google.com/uc?export=download&id=1cswGW5redYjtRCauaDXsd2MpwmqC6Jz1",
+      "link": "https://drive.google.com/uc?export=download&id=1Cz8_AyFVJffX2ZO5V-EKKehh4T8yGu-W",
+      "description": "The Power of Muhasabah - Manajemen Hidup Bahagia Dunia Akhirat (111 Halaman) - Prof. Dr. H. Abdullah M.Si."
+    },
+    {
+      "id": 78,
+      "name_category": "Akhlak",
+      "author": "Yadi Saeful Hidayat",
+      "title": "Merindukanmu Duhai Muhammad",
+      "image": "https://drive.google.com/uc?export=download&id=1CMdEMtk7aVsLAZnSjJY9MRNOENIbhhiJ",
+      "link": "https://drive.google.com/uc?export=download&id=1MsSGff9RWbjyyi0VbUtEzV09vwZJ6Gt8",
+      "description": "Rindu kita kepada Muhammad Saw. adalah rindu yang berjarak. Tak pernah kita melihat sosoknya; seperti juga Muhammad Saw. yang tak pernah menyaksikan kita tapi terus mendoakan. Tak pernah kita bersua dengannya; seperti juga Muhammad Saw. yang tak menjumpai kita, tapi sangat ingin menyambut kita di telaganya. Dan karenanya, adakah harapan yang lebih tinggi daripada keinginan untuk bertemu dan memeluk sang Nabi?\n\nPupuklah harapan itu, rawatlah kerinduan kita kepada sosok Nabi yang mulia, Muhammad Al-Mushthafâ. Bagaimana cara merawatnya? Buatlah Nabi kita, Muhammad Saw., begitu spesial tersimpan di hati. Laku kita adalah lakunya, ucap kita adalah ucapnya, dan segala yang tertampilkan pada diri kita sebentuk cara untuk meneladani sosok Muhammad Saw."
+    },
+    {
+      "id": 77,
+      "name_category": "Aqidah",
+      "author": "H. Iding Achmadin & DR. Achmad MBA",
+      "title": "Kisah-Kisah Dalam Alquran",
+      "image": "https://drive.google.com/uc?export=download&id=1D0HTKH-QZp3zVZNYHRYDoAZLUUWrgww9",
+      "link": "https://drive.google.com/uc?export=download&id=1z2c_adbiJtygauCwr_D5a4xhx1t6oVh3",
+      "description": "Kisah-Kisah Dalam Alquran (255 Halaman) - H. Iding Achmadin & DR. Achmad MBA"
+    },
+    {
+      "id": 76,
+      "name_category": "Dzikir & Doa",
+      "author": "Tim Muslim Amanah",
+      "title": "Rahasia Rezeki Berlimpah dari Quran & Sunnah",
+      "image": "https://drive.google.com/uc?export=download&id=1B02jr5idc-yJGsVNNNRploVYjKAFIfBH",
+      "link": "https://drive.google.com/uc?export=download&id=1THjPVjDhzWsUDt_DXwvCqL0v1kl548Vt",
+      "description": "Rahasia Rezeki Berlimpah dari Quran & Sunnah (99 Halaman) - Tim Muslim Amanah"
+    },
+    {
       "id": 75,
       "name_category": "Aqidah",
       "author": "Muhammad Ahmad Vad’aq",
       "title": "Bahas Cerdas Kupas Tuntas Dalil Syari Maulid Nabi",
-      "image": "https://i.postimg.cc/kgX94HNr/bahas-maulid-nabi.png",
+      "image": "https://drive.google.com/uc?export=download&id=1zw6VLTVBcwemrw8FvGRt2yII1HujhPlA",
       "link": "https://ia803106.us.archive.org/22/items/etaoin/Bahas%20Cerdas%20%20Kupas%20Tuntas%20Dalil%20Syari%20Maulid%20Nabi.pdf",
       "description": "Mari kita baca dengan cermat buku karya Imam Suyuthi ini agar kita dapat memahami masalah dengan kepala yang dingin dan jauh dari keangkuhan, Bahas Cerdas Kupas Tuntas Dalil Syari Maulid Nabi"
     },
@@ -139,7 +175,7 @@
       "name_category": "Dzikir & Doa",
       "author": "Muhammad bin Husein al-Habsyi",
       "title": "Terjemah Maulid Simtudduror",
-      "image": "https://i.postimg.cc/YS5J1DFC/terjemah-kitab-maulid-simtudduror.png",
+      "image": "https://drive.google.com/uc?export=download&id=1RVWmXfrnY2I0obZeHEKsrhNuDRLqyStm",
       "link": "https://drive.google.com/uc?export=download&id=1Y05vi41xRJeqcj5pFoDl6LnshbWHFzmX",
       "description": "Terjemah Maulid Simtudduror (Maulid Habsyi) Karya Muhammad bin Husein al-Habsyi"
     },
@@ -148,7 +184,7 @@
       "name_category": "Dzikir & Doa",
       "author": "Muhammad bin Husein al-Habsyi",
       "title": "Kitab Maulid Simtudduror",
-      "image": "https://i.postimg.cc/dtJcHfx7/kitab-maulid-simtudduror.png",
+      "image": "https://drive.google.com/uc?export=download&id=19cbBxmtkv4d8JTuXp0oxtR2hAaK4fqQN",
       "link": "https://drive.google.com/uc?export=download&id=1_H9NG-SAFqbP5DBgft50J23eMV1LPiY0",
       "description": "Kitab Maulid Simtudduror (Maulid Habsyi) Karya Muhammad bin Husein al-Habsyi"
     },
@@ -157,7 +193,7 @@
       "name_category": "Dzikir & Doa",
       "author": "Imam al-Bushiri",
       "title": "Terjemah Kitab Qasidah Burdah",
-      "image": "https://i.postimg.cc/g2JFdZdm/terjemah-kitab-maulid-burdah.png",
+      "image": "https://drive.google.com/uc?export=download&id=1Gxllx2HvA_-Bfo2B9KHIemQBNDpD5R9P",
       "link": "https://drive.google.com/uc?export=download&id=1iAlqcWNKfCfl0fuVvQyaO0uXtiEl5pvF",
       "description": "Terjemah Kitab Qasidah Burdah Karya Imam al-Bushiri"
     },
@@ -166,7 +202,7 @@
       "name_category": "Dzikir & Doa",
       "author": "Imam al-Bushiri",
       "title": "Kitab Maulid Burdah Arab",
-      "image": "https://i.postimg.cc/3NF5rjdJ/kitab-maulid-burdah.png",
+      "image": "https://drive.google.com/uc?export=download&id=1bnF-TLenKbRr-7HNkYV67jqh_qjD9JB0",
       "link": "https://drive.google.com/uc?export=download&id=1ggS0YOT4Zd6NU2xN-MDqmVEAap2a6_5S",
       "description": "Kitab Maulid Burdah Arab Karya Imam al-Bushiri"
     },
@@ -175,7 +211,7 @@
       "name_category": "Dzikir & Doa",
       "author": "Imam Jalil Abdurrahman al-Diba’i",
       "title": "Terjemahan Maulid Diba’I",
-      "image": "https://i.postimg.cc/dtnPz9b5/terjemah-kitab-maulid-dibai.png",
+      "image": "https://drive.google.com/uc?export=download&id=1K8SAGE-Ds2f7weS6N5xpTBnHaTb5q6vb",
       "link": "https://drive.google.com/uc?export=download&id=13GVmTSZP-9MYTdoORl434j6zTBnk6Nxb",
       "description": "Terjemahan Maulid Diba’I Karangan Imam Jalil Abdurrahman al-Diba’i"
     },
@@ -184,7 +220,7 @@
       "name_category": "Dzikir & Doa",
       "author": "Imam Jalil Abdurrahman al-Diba’i",
       "title": "Kitab Maulid Diba’I Arab",
-      "image": "https://i.postimg.cc/rpDkGtYQ/kitab-maulid-dibai.png",
+      "image": "https://drive.google.com/uc?export=download&id=1qN8GD1Ze8b9DVO8OvvN3I0Xmb3g-mx9r",
       "link": "https://drive.google.com/uc?export=download&id=10uKg9z6FdjyInWAlTD0tsa5WU-JLFEdA",
       "description": "Kitab Maulid Diba’I Arab Karangan Imam Jalil Abdurrahman al-Diba’i"
     },
@@ -787,7 +823,7 @@
       "name_category": "Ramadhan",
       "author": "Tim Redaksi Muslimah.Or.Id",
       "title": "Bersemilah Ramadhan",
-      "image": "https://static.muslimah.or.id/wp-content/uploads/2018/05/IMG-20180518-WA0003.jpg",
+      "image": "https://drive.google.com/uc?export=download&id=1VJbv7LAu1p4l-sHogGRwcPU6PHGu4YMl",
       "link": "https://drive.google.com/uc?export=download&id=1IahHZFOS-FtH6qHbptOiyfYptMlvQ1Ii",
       "description": "Bersemilah Ramadhan…\ndi hati orang-orang yang beriman.\nHadirnya disambut kebahagiaan,\nDetik-detiknya diisi ketaatan,\n\nSudah siap kencangkan ikat pinggang?\nUntuk “dia” yang segera akan bertandang..\n\nKiranya kita menyiapkan diri, agar Ramadhan tak hanya datang dan kemudian menghilang (tanpa meraih banyak keutamaannya).\n\nE-book ini adalah E-book kumpulan artikel pilihan seputar ramadhan yang dimuat di website Muslimah.Or.Id.\n\nBerisi artikel tentang ilmu, nasihat, penyemangat dan motivasi khususnya bagi muslimah untuk mempersiapkan diri menyambut ramadhan, produktif selama ramadhan dan istiqomah beramal setelah ramadhan."
     },
@@ -796,7 +832,7 @@
       "name_category": "Ramadhan",
       "author": "Ahmad Syaikhu",
       "title": "Ramadhan Di Tengah Wabah",
-      "image": "https://scontent.fbdo3-1.fna.fbcdn.net/v/t1.6435-9/94381753_2936865569760835_7737718994920013824_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=3y0tiAlPEuUAX-P6d1c&_nc_ht=scontent.fbdo3-1.fna&oh=00_AfASjpQo-w_M_zRv1JP4CVTWIIFLOg6bFL6iwuh6IzxSRg&oe=652B2972",
+      "image": "https://drive.google.com/uc?export=download&id=1cBGfp2qioK9ERyNEaekXGhNxy6uY7lWl",
       "link": "https://fraksi.pks.id/app/uploads/2020/05/e-BOOK-RAMADHAN-AHMAD-SYAIKHU.pdf",
       "description": "Alhamdulillah, buku ini terbit. Sengaja saya tulis diniatkan untuk menjadi penyambung silaturahim dengan masyarakat dalam suasana mewabahnya Covid-19 pada Ramadhan 1441 H, di mana banyak keterbatasan untuk bisa bertemu secara langsung.\nDi tengah pandemi Corona yang luar biasa, mudah-mudahan buku sederhana ini dapat menjadi “teman” yang tepat. Membuat keimanan kita meningkat dan imunitas tubuh juga menguat. \nSemoga Allah SWT permudah kita menjalani ibadah Ramadhan 1441 H dan melindungi kita dari wabah Corona serta segera Allah angkat wabah ini. Aamiin."
     }
