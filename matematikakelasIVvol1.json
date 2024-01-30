@@ -1,0 +1,320 @@
+{
+  "Ads": [
+    {
+      "select_main_ads" : "ADMOB",
+      "select_backup_ads" :"null",
+
+      "open_ads_admob" : "ca-app-pub-4032018959181535/9315496829",
+      "open_ads_alien" : "null",
+      "open_ads_max" : "null",
+
+      "main_ads_banner" : "ca-app-pub-4032018959181535/8435378317",
+      "main_ads_intertitial" : "ca-app-pub-4032018959181535/1069035943",
+
+      "backup_ads_banner" : "null",
+      "backup_ads_intertitial" : "null",
+
+      "interval_intertitial" : 3,
+
+      "on_off_banner_home" : "1",
+      "on_off_banner_splash" : "1",
+      "on_off_banner_exit_dialog" : "1",
+
+      "initialize_sdk" : "null",
+      "initialize_sdk_backup_ads" : "null",
+
+      "high_paying_keyword_1" : "property",
+      "high_paying_keyword_2" : "insurance",
+      "high_paying_keyword_3" : "finance",
+      "high_paying_keyword_4" : "automotive",
+      "high_paying_keyword_5" : "japan",
+
+      "status_app" : "0",
+      "link_redirect" : "https://google.com",
+
+      "random_list_content" : "0",
+      "jumlah_list_categori_home" : 8,
+      "jumlah_list_recent_home" : 10,
+
+      "child_direct_gdpr" : "true",
+      "one_signal_api_key" : "9d07c815-f8b1-4230-98ac-f0bf0161e9cb",
+
+      "on_off_protect_app" : "false",
+      "license_key" : "null"
+    }
+  ],
+
+
+  "More": [
+    {
+      "title": "Khutbah Jumat Setahun",
+      "image": "https://lh3.googleusercontent.com/D2HU8_fgWYm6ET6ef_EEL0xjWuQ20fBuQLtcpN4HBtIMAUzp2JDuCzwb7HiI3sPb1oA",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.khutbahjumatsetahun"
+    },
+    {
+      "title": "Panduan Sholat Dhuha & Tahajud",
+      "image": "https://lh3.googleusercontent.com/vQcwkpFTL6F9S2NYVsbX1eXdX0JVdBioqJoRUczND0wrdfAPzBy0ZmrXcDHqMVIjhD4",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.sholatdhuha"
+    },
+    {
+      "title": "BMW Wallpaper HD",
+      "image": "https://lh3.googleusercontent.com/Du4qz8NgDODWqm000cQYEERGUawlg2XvKK1maBG9amgVjFUmtQtGzSdhYoPNmK5qTA",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.bmwwallpaperhd"
+    },
+    {
+      "title": "Surat Yasin & Tahlil Berwarna",
+      "image": "https://lh3.googleusercontent.com/T9aXakrpTtmoZBdGSax4gTnEtG3DmsQH_uEp1z_BFf5YBiBZlgGz-LxmzFqiVubuFA",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.yasinberwarna"
+    },
+    {
+      "title": "Kumpulan Khutbah Jumat",
+      "image": "https://lh3.googleusercontent.com/p0cvLW-mO-IYhJkwJzUFxAFRztALeAbNyoxfZP3ahCprulXaujYXVedG2CwTZCz8INg",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.kumpulankhutbahjumat"
+    },
+    {
+      "title": "Ronaldo Wallpaper HD",
+      "image": "https://lh3.googleusercontent.com/30VOjWs5o4eLmAKQ3as2cxBuxFr_ho5D9Iy_lAcajg7f0ydpItrzmSVlc9FXLZYuF2o",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.ronaldowallpaperhd"
+    },
+    {
+      "title": "Kumpulan Kisah Sahabat Nabi",
+      "image": "https://lh3.googleusercontent.com/Z2JxUv2E9pHL01J1meNud_oyIfRsCKyghUSsyaz-t61tEZqQLtv9n-O8T2RC3_vzO9E",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.riwayatsahabatnabi"
+    },
+    {
+      "title": "Almatsurat Sughra Audio",
+      "image": "https://lh3.googleusercontent.com/ZuQ3aF-oaLfYguj8lbAtsNjPOYkPs2WPnDexZjAVWWvsRzO2V5FZSK-TeZaN_ktr8tA",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.almatsuratsughra"
+    }
+  ],
+
+
+  "Categories": [
+    {
+      "name_category": "IPA",
+      "image": "file:///android_asset/gambar/ipa.webp"
+    },{
+      "name_category": "IPS",
+      "image": "file:///android_asset/gambar/ips.webp"
+    },
+    {
+      "name_category": "Bahasa Indonesia",
+      "image": "file:///android_asset/gambar/bahasaindonesia.webp"
+    },
+    {
+      "name_category": "Bahasa Inggris",
+      "image": "file:///android_asset/gambar/bahasainggris.webp"
+    },
+    {
+      "name_category": "Matematika",
+      "image": "file:///android_asset/gambar/matematika.webp"
+    },
+    {
+      "name_category": "Pancasila",
+      "image": "file:///android_asset/gambar/pendidikanpancasila.webp"
+    },
+    {
+      "name_category": "PJOK",
+      "image": "file:///android_asset/gambar/pjok.webp"
+    },
+    {
+      "name_category": "Informatika",
+      "image": "file:///android_asset/gambar/informatika.webp"
+    },
+    {
+      "name_category": "Agama",
+      "image": "file:///android_asset/gambar/agama.webp"
+    }
+  ],
+
+
+  "Data": [
+    {
+      "id": 15,
+      "name_category": "Agama",
+      "author": "Feby Lestari Supriyono",
+      "title": "Pendidikan Kepercayaan Tuhan SD Kelas IV",
+      "image": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Kepercayaan-BS-KLS-IV-Cover.png",
+      "link": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Kepercayaan-BS-KLS-IV.pdf",
+      "description": "Hadirnya Buku Siswa dan Buku Guru Pendidikan Kepercayaan Terhadap Tuhan Yang Maha Esa dan Budi Pekerti merupakan implementasi dari Permendikbud Nomor 27 Tahun 2016 tentang Layanan Pendidikan Kepercayaan Terhadap Tuhan Yang Masa Esa pada Satuan Pendidikan. Buku ini disusun sesuai dengan Kurikulum Merdeka Belajar dengan pendekatan pembelajaran berbasis Profil Pelajar Pancasila.\n\nPendidikan Kepercayaan Terhadap Tuhan Yang Maha Esa dan Budi Pekerti memuat lima elemen dasar, yakni: Sejarah, Budi Pekerti, Keagungan Tuhan, Martabat Spiritual serta Larangan dan Kewajiban. Kelima elemen tersebut dijabarkan dalam pendekatan pembelajaran berbasis Profil Pelajar Pancasila, yang terdiri dari: Berakhlak Mulia, Bernalar Kritis, Bergotong Royong, Mandiri, Kreatif, dan Berkebinekaan Global."
+    },
+    {
+      "id": 14,
+      "name_category": "Agama",
+      "author": "Norita Yudiet Tompah, Novy Amelia Elisabeth Sine",
+      "title": "PABP Kristen untuk SD Kelas IV",
+      "image": "https://e-katalog.lkpp.go.id/katalog/produk/download/gambar/935012629?v=2",
+      "link": "https://drive.google.com/uc?export=download&id=1I7v6y70loEPWga05mFi8c5zow2ZkhEpg",
+      "description": "Puji syukur kepada Tuhan Yang Maha Kuasa, berkat pertolongan dan kasih karuniaNya, penyusunan Buku Teks Utama Mata Pelajaran Pendidikan Agama Kristen dan Budi Pekerti pegangan siswa dan guru kelas 1 s.d 12 pada satuan pendidikan dasar dan menengah ini dapat diselesaikan. \n\nKemajuan dan kesejahteraan lahir bathin seseorang termasuk suatu bangsa, salah satunya ditentukan sejauhmana kualitas pendidikannya. Untuk itulah Pemerintah Republik Indonesia bersama berbagai elemen masyarakat dan elemen pemerintah, dalam hal ini Kementerian Agama bersama Pusat Kurikulum dan Perbukuan, Badan Penelitian dan Pengembangan dan Perbukuan, Kementerian Pendidikan dan Kebudayaan (sesuai tugas, fungsi, dan kewenangannya) menyelenggarakan kerja sama mengembangkan dan menyederhanakan capaian pembelajaran kurikulum serta menyusun buku teks utama Mata Pelajaran Pendidikan Agama Kristen dan Budi Pekerti pegangan siswa dan guru kelas 1 s.d 12 pada satuan pendidikan dasar dan menengah, yang tertuang dalam Perjanjian Kerja Sama Nomor: 58/IX/PKS/2020 dan Nomor: B-385/DJ.IV/PP.00.11/09/2020 tentang Penyusunan Buku Teks Utama Pendidikan Agama Kristen."
+    },
+    {
+      "id": 13,
+      "name_category": "Agama",
+      "author": "Po Budi Wijaya,Yessica Kusumohadi",
+      "title": "PABP Konghucu untuk SD Kelas IV",
+      "image": "https://pendidikan.matakin.or.id/web/image/sekolah.formal/32/image_1920/BS%20AGAMA%20KHONGHUCU%20Kelas%204?unique=b7c24c2",
+      "link": "https://drive.google.com/uc?export=download&id=1HkepGZVdCQhfDqoi4tvYHZzn4XZB-p_j",
+      "description": "Puji syukur kami panjatkan ke hadirat Tian, Tuhan Yang Maha Esa dan bimbingan Nabi Kongzi atas penyelesaian Buku Siswa Pendidikan Agama Khonghucu dan Budi Pekerti SD kelas IV. Terima kasih kami ucapkan kepada Kementerian Pendidikan dan Kebudayaan Republik Indonesia yang telah memberi kesempatan kepada kami melalui Pusat Kurikulum dan Perbukuan dan Pusat Bimbingan dan Pendidikan Khonghucu Kementerian Agama RI untuk berpartisipasi dalam penulisan buku ini. Tidak lupa kami ucapkan terima kasih kepada para penelaah dan pengolah naskah yang mendukung proses penyusunan hingga tuntas."
+    },
+    {
+      "id": 12,
+      "name_category": "Agama",
+      "author": "Daniel Boli Kotan, Marianus Didi Kasmudi",
+      "title": "PABP Katolik untuk SD Kelas IV",
+      "image": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Katolik-BS-KLS-IV-Cover.png",
+      "link": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Katolik-BS-KLS-IV.pdf",
+      "description": "Segala puji dan syukur kami haturkan kepada Allah Tritunggal Maha Kudus atas berkat, dan bimbingan-Nya sehingga kami dapat menyelesaikan penulisan buku mata pelajaran Pendidikan Agama Katolik dan Budi Pekerti untuk jenjang pendidikan Sekolah Dasar. \n\nPada dasarnya, pendidikan merupakan tugas sekaligus tanggung jawab pertama dan utama orang tua (lih. Gravissimum Educationis art.3). Demikian pula halnya dengan pendidikan iman anak. Pendidikan iman pertama-tama harus dimulai dan dilaksanakan di lingkungan keluarga tempat anak mulai mengenal dan mengembangkan iman. Pendidikan iman yang dimulai dalam keluarga perlu dikembangkan lebih lanjut bersama seluruh umat atau Gereja."
+    },
+    {
+      "id": 11,
+      "name_category": "Agama",
+      "author": "Suyatno, Rustam",
+      "title": "PABP Buddha untuk SD Kelas IV",
+      "image": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Buddha-BS-KLS-IV-Cover.png",
+      "link": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Buddha-BS-KLS-IV.pdf",
+      "description": "Selamat! Saat ini, kalian sudah duduk di Kelas IV. Buku ini akan menemani kalian belajar Pendidikan Agama Buddha dan Budi Pekerti. Tujuan dari Buku Siswa ini adalah untuk panduan kalian dalam proses pembelajaran Pendidikan Agama Buddha dan Budi Pekerti Kelas IV. Melalui buku ini, kalian diharapkan dapat memahami secara utuh dan menyeluruh pelajaran agama melalui berbagai aktivitas pembelajaran. \n\nBuku Siswa ini terdiri atas 30 pembelajaran yang terdapat di dalam 8 bab. Bab 1 s.d. Bab 6 masing-masing terdiri atas 4 (empat) pembelajaran dan Bab 7 dan 8 masing-masing terdiri atas 3 (tiga) pembelajaran. "
+    },
+    {
+      "id": 10,
+      "name_category": "Agama",
+      "author": "Komang Edi Putra",
+      "title": "PABP Hindu untuk SD Kelas IV",
+      "image": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Hindu-BS-KLS-IV-Cover.png",
+      "link": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Hindu-BS-KLS-IV.pdf",
+      "description": "Buku Siswa Pendidikan Agama Hindu dan Budi Pekerti untuk pelajaran tingkat Sekolah Dasar Kelas IV ini disusun berdasarkan Capaian Pembelajaran Tahun 2020 dengan memerhatikan fasenya. \n\nBuku ini disusun berdasarkan pemahaman kompetensi dalam menciptakan pembelajaran agar peserta didik dapat lebih aktif, kreatif, inovatif serta menyenangkan, sehingga dapat mencapai kompetensi yang diharapkan dan menjadikan generasi muda Hindu yang memiliki budi pekerti luhur."
+    },
+    {
+      "id": 9,
+      "name_category": "Agama",
+      "author": "Ahmad Faozan, Jamaluddin",
+      "title": "PABP Islam untuk SD Kelas IV",
+      "image": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Islam-BS-KLS-IV-Cover.png",
+      "link": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Islam-BS-KLS-IV.pdf",
+      "description": "Alhamdulillah, segala puji hanya milik Allah Swt. yang dengan rahmat-Nya buku Pendidikan Agama Islam dan Budi Pekerti ini dapat selesai. Buku ini digunakan oleh peserta didik kelas IV di seluruh Indonesia sebagai buku teks utama dalam kegiatan pembelajaran di sekolah. \n\nAkhirnya, harapan penulis semoga buku ini dapat memberikan kontribusi secara maksimal bagi kemajuan pendidikan di Indonesia. Kritik perbaikan dan saran penyempurnaan terus kami tunggu terutama dari pakar pendidikan Islam, pemerhati Pendidikan Islam dan guru PAI & BP . Semuanya untuk menyambut era pengembangan kurikulum dalam bentuk capaian pembelajaran yang akan mewarnai pendidikan Indonesia supaya lebih baik dalam menyiapkan peserta didik, generasi masa depan yang dapat hidup dalam konteks zamannya."
+    },
+    {
+      "id": 8,
+      "name_category": "Bahasa Inggris",
+      "author": "Lilin Rahmawati, Nur FItria Angrisia, Lili Nailufary",
+      "title": "My Next Words Grade 4",
+      "image": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Bahasa-Inggris-BS-KLS-IV-Cover.png",
+      "link": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Bahasa-Inggris-BS-KLS-IV.pdf",
+      "description": "Alhamdulillah, segenap puji syukur kami panjatkan kepada Allah SWT yang telah memberikan karunia dan kesempatan kepada kita semua. Kami mengucapkan terima kasih yang tak terhingga kepada semua pihak yang telah memberi dukungan baik materi maupun motivasi serta fasilitas sehingga kami bisa menyelesaikan buku My Next Words.\n\nMy Next Words ini menyajikan materi pembelajaran yang sederhana agar anak mampu berkomunikasi dengan menggunakan bahasa Inggris sesuai dengan dengan perkembangan dan kebutuhan anak dalam berkomunikasi. Agar karakter bahasa sebagai alat komunikasi dapat diwujudkan dalam kegiatan belajar sehari-hari dan berkelanjutan, maka guru diharapkan menggunakan bahasa Inggris dalam rangkaian kegiatan pembelajaran di kelas dan di luar kelas, agar anak dapat menggunakannya dalam konteks kehidupannya sehari-hari."
+    },
+    {
+      "id": 7,
+      "name_category": "Bahasa Indonesia",
+      "author": "Eva Yulia Nukman, Cicilia Erni Setyowati",
+      "title": "Bahasa Indonesia untuk Kelas IV",
+      "image": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Bahasa-Indonesia-BS-KLS-IV-Cover.png",
+      "link": "https://drive.google.com/uc?export=download&id=1Mt_S9Ur8qqD34h-YleyqxhGwjcVJXTZk",
+      "description": "Sekarang kalian sudah di kelas empat. Selamat, ya! Tentu sudah banyak materi yang kalian pelajari dan banyak kegiatan yang kalian lakukan di kelas satu sampai kelas tiga. Nah, di kelas empat ini kalian akan belajar lebih banyak lagi. \n\nBerbagai kegiatan di dalam buku ini akan membantu kalian memahami pelajaran. Ada permainan, ada membaca bersama teman, dan banyak kegiatan lainnya. \n\nJangan lupa, proyek kamus akan makin seru. Begitu pula Jurnal Membaca kalian akan makin berwarna dengan beragam kisah. "
+    },
+    {
+      "id": 6,
+      "name_category": "IPS",
+      "author": "Amalia Fitri, Anggayudha A. Rasa, Aldilla Kusumawardhani, Kinkin K. Nursya’bani, Kristianti Fatimah, Nur Ilmi Setianingsih",
+      "title": "Ilmu Pengetahuan Alam dan Sosial kelas IV",
+      "image": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/IPAS-BS-KLS-IV-Cover.png",
+      "link": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPAS-BS-KLS-IV.pdf",
+      "description": "Tantangan mempelajari bidang keilmuan IPAS senantiasa berkembang dari waktu ke waktu yang tentunya memengaruhi cara belajar peserta didik. Buku ini mengelaborasikan pemahaman-pemahaman esensial dengan ragam aktivitas yang diharapkan mampu menstimulus keingintahuan peserta didik terhadap topik-topik seputar fenomena alam dan sosial di sekitarnya, sehingga peserta didik termotivasi untuk belajar lebih lanjut secara mandiri. \n\nSemoga buku ini dapat memberikan kontribusi yang nyata dalam membantu peserta didik mencapai kompetensinya sehingga berdampak terhadap kemajuan pendidikan IPAS tingkat dasar di Indonesia. Penulis menantikan kritik dan masukan yang membangun untuk perbaikan buku ini di masa yang akan datang."
+    },
+    {
+      "id": 5,
+      "name_category": "IPA",
+      "author": "Amalia Fitri, Anggayudha A. Rasa, Aldilla Kusumawardhani, Kinkin K. Nursya’bani, Kristianti Fatimah, Nur Ilmi Setianingsih",
+      "title": "Ilmu Pengetahuan Alam dan Sosial kelas IV",
+      "image": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/IPAS-BS-KLS-IV-Cover.png",
+      "link": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPAS-BS-KLS-IV.pdf",
+      "description": "Tantangan mempelajari bidang keilmuan IPAS senantiasa berkembang dari waktu ke waktu yang tentunya memengaruhi cara belajar peserta didik. Buku ini mengelaborasikan pemahaman-pemahaman esensial dengan ragam aktivitas yang diharapkan mampu menstimulus keingintahuan peserta didik terhadap topik-topik seputar fenomena alam dan sosial di sekitarnya, sehingga peserta didik termotivasi untuk belajar lebih lanjut secara mandiri. \n\nSemoga buku ini dapat memberikan kontribusi yang nyata dalam membantu peserta didik mencapai kompetensinya sehingga berdampak terhadap kemajuan pendidikan IPAS tingkat dasar di Indonesia. Penulis menantikan kritik dan masukan yang membangun untuk perbaikan buku ini di masa yang akan datang."
+    },
+    {
+      "id": 4,
+      "name_category": "Pancasila",
+      "author": "Dede Kurniawan, Dwi Nanta Priharto, Yusnawan Lubis",
+      "title": "Pendidikan Pancasila untuk SD/MI Kelas IV",
+      "image": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Pendidikan-Pancasila-BS-KLS-IV-Cover.png",
+      "link": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Pendidikan-Pancasila-BS-KLS-IV.pdf",
+      "description": "Pancasila dan nilai-nilai yang dikandungnya merupakan falsafah dasar, pandangan hidup bangsa, dasar negara, ideologi, kekuatan pemersatu bangsa, dan sumber segala hukum negara. Pancasila sebagai dasar dan ideologi negara merupakan “meja statis” yang menyatukan berbagai keragaman yang ada, sekaligus sebagai “bintang penuntun” (leitstar) yang dinamis dengan gerak evolusioner pemikiran manusia. Untuk itu, sudah selayaknya kita, bangsa Indonesia, mengaktualisasikan Pancasila dari waktu ke waktu dan dari generasi ke generasi sehingga kelestarian dan kelanggengan Pancasila senantiasa diamalkan dalam kehidupan bermasyarakat, berbangsa, dan bernegara. \n\nBuku ini disajikan dengan bahasa yang sederhana dan komunikatif yang terdiri atas 4 bab yakni: (1) mengenal lingkungan sekitar, (2) aku anak yang disiplin, (3) kerja sama di lingkunganku (4) Pancasila dalam diriku. Setiap bab menyajikan materi yang dilengkapi dengan aktivitas pembelajaran yang bervariasi. Aktivitas yang dapat menumbuhkembangkan keterampilan dasar literasi dan selaras dengan pengembangan Proil Pelajar Pancasila."
+    },
+    {
+      "id": 3,
+      "name_category": "Matematika",
+      "author": "Hobri, Susanto, Arika Indah Kristiana, Arif Fatahillah, Eko Waluyo, Ridho Alfarisi, Haris Setiya Budi, Moh. Iqbal Helmi",
+      "title": "Matematika untuk SD/MI Kelas IV",
+      "image": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Matematika-BS-KLS-IV-cover.png",
+      "link": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Matematika-BS-KLS-IV.pdf",
+      "description": "Puji Syukur kami panjatkan kehadirat Alloh SWT Tuhan Yang Maha Kuasa atas rahmat-Nya sehingga dapat menyelesaikan Buku Siswa Matematika SD/ MI Kelas IV. Buku ini disusun dengan tujuan membantu anak-anak kelas IV untuk dapat belajar secara mandiri dalam memahami matematika dan mempersiapkan diri sebelum naik ke kelas V. Materi pelajaran disusun dalam urutan yang mudah dan melibatkan lingkungan yang akrab dengan peserta didik sehingga peserta didik dapat belajar dengan menyenangkan karena banyak aktivitas yang dilakukan dengan cermat. \n\nBuku ini disajikan dengan bahasa yang sederhana dan komunikatif yang terdiri atas 6 bab yakni: (1) bilangan cacah sampai 10.000, (2) pecahan, (3) pola gambar dan pola bilangan, (4) pengukuran luas dan volume, (5) bangun datar, dan (6) piktogram dan diagram batang. Setiap bab menyajikan materi dilengkapi dengan aktivitas pembelajaran antara lain: mengamati, mencoba, berpikir, berlatih, membaca, bertanya, bercerita, menggambar, menulis, berdiskusi, dan bermain peran."
+    },
+    {
+      "id": 2,
+      "name_category": "Matematika",
+      "author": "Tim Gakko Tosho",
+      "title": "Matematika SD/MI Kelas IV – Volume 2",
+      "image": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Matematika-Vol-2-BS-KLS-IV-Cover.png",
+      "link": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Matematika-Vol-2-BS-KLS-IV.pdf",
+      "description": "Seri \"Matematika untuk Sekolah Dasar\" yang diterbitkan GAKKO TOSHO.Co.LTD, Tokyo-Japan bertujuan untuk mengembangkan siswa belajar matematika oleh dan untuk diri mereka sendiri dengan pemahaman yang komprehensif, apresiasi, dan perluasan lebih lanjut dalam penerapan matematika. \n\nPenemuan matematika adalah harta berharga matematikawan dan kadang-kadang aktivitas heuristik seperti itu dianggap bukan masalah belajar siswa di kelas, karena seseorang percaya bahwa hanya orang-orang hebat yang dapat menemukannya. \n\nSeri buku teks ini memberikan terobosan untuk kesalahpahaman anggapan ini dengan menunjukkan kepada siswa untuk memahami konten pembelajaran baru dengan menggunakan matematika yang telah dipelajari sebelumnya. \n\nBelajar Bersama Temanmu Matematika untuk Sekolah Dasar Kelas IV – Volume 2 Selamat Membaca dan Belajar"
+    },
+    {
+      "id": 1,
+      "name_category": "Matematika",
+      "author": "Tim Gakko Tosho",
+      "title": "Matematika SD/MI Kelas IV – Volume 1",
+      "image": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Matematika-Vol-1-BS-KLS-IV-Cover.png",
+      "link": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Matematika-Vol-1-BS-KLS-IV.pdf",
+      "description": "Seri \"Matematika untuk Sekolah Dasar\" yang diterbitkan GAKKO TOSHO.Co.LTD, Tokyo-Japan bertujuan untuk mengembangkan siswa belajar matematika oleh dan untuk diri mereka sendiri dengan pemahaman yang komprehensif, apresiasi, dan perluasan lebih lanjut dalam penerapan matematika. \n\nPenemuan matematika adalah harta berharga matematikawan dan kadang-kadang aktivitas heuristik seperti itu dianggap bukan masalah belajar siswa di kelas, karena seseorang percaya bahwa hanya orang-orang hebat yang dapat menemukannya. \n\nSeri buku teks ini memberikan terobosan untuk kesalahpahaman anggapan ini dengan menunjukkan kepada siswa untuk memahami konten pembelajaran baru dengan menggunakan matematika yang telah dipelajari sebelumnya. \n\nBelajar Bersama Temanmu Matematika untuk Sekolah Dasar Kelas IV – Volume 1 Selamat Membaca dan Belajar"
+    }
+  ],
+
+
+  "Guide": [
+    {
+      "id":1,
+      "name_category": "Pendidikan",
+      "title":"Judul Guide Lengkap 1",
+      "image":"file:///android_asset/guide/list.webp",
+      "link":"file:///android_asset/guide/1.html",
+      "description":"Deskripsi Lengkap Tema"
+    },
+    {
+      "id":1,
+      "name_category": "Pendidikan",
+      "title":"Judul Guide Lengkap 1",
+      "image":"file:///android_asset/guide/list.webp",
+      "link":"file:///android_asset/guide/1.html",
+      "description":"Deskripsi Lengkap Tema"
+    },
+    {
+      "id":2,
+      "name_category": "Pendidikan",
+      "title":"Judul Guide Lengkap 2",
+      "image":"file:///android_asset/guide/list.webp",
+      "link":"file:///android_asset/guide/1.html",
+      "description":"Deskripsi Lengkap Tema"
+    },
+    {
+      "id":3,
+      "name_category": "Pendidikan",
+      "title":"Judul Guide Lengkap 3",
+      "image":"file:///android_asset/guide/list.webp",
+      "link":"file:///android_asset/guide/1.html",
+      "description":"Deskripsi Lengkap Tema"
+    },
+    {
+      "id":4,
+      "name_category": "Pendidikan",
+      "title":"Judul Guide Lengkap 4",
+      "image":"file:///android_asset/guide/list.webp",
+      "link":"file:///android_asset/guide/1.html",
+      "description":"Deskripsi Lengkap Tema"
+    },
+    {
+      "id":5,
+      "name_category": "Pendidikan",
+      "title":"Judul Guide Lengkap 5",
+      "image":"file:///android_asset/guide/list.webp",
+      "link":"file:///android_asset/guide/1.html",
+      "description":"Deskripsi Lengkap Tema"
+    }
+  ]
+}
