@@ -126,6 +126,69 @@
 
   "Data": [
     {
+      "id": 91,
+      "name_category": "Ramadhan",
+      "author": "Abu Ubaidah Yusuf bin Mukhtar as-Sidawi",
+      "title": "Risalah Tentang I’tikaf & Lailatul Qadr",
+      "image": "https://ebooksunnah.com/storage/media/pAABQr7zqfOfrFpYXCxa8pYl5giJOucbp37ptjtc.jpg",
+      "link": "https://ebooksunnah.com/storage/media/0gwMgzGqLFkqmjt9e2pXLO7vzutBIBMqM3mFS5La.pdf",
+      "description": "Ramadhan adalah bulan istimewa yang penuh berkah, lebih istimewa lagi adalah penghujungnya yaitu 10 akhir bulan Ramadhan, karena di dalamnya terdapat malam spesial yaitu malam Lailatul Qadr yang lebih baik dari seribu bulan. Oleh karenanya, kita dianjurkan untuk berusaha menggapainya dengan disyari’atkannya ibadah i’tikaf."
+    },
+    {
+      "id": 90,
+      "name_category": "Ramadhan",
+      "author": "Abu Ubaidah Yusuf bin Mukhtar as-Sidawi, Abu Abdillah Syahrul Fatwa bin Luqman",
+      "title": "Fiqih Zakat Fithri & Shalat ‘Idul Fithri",
+      "image": "https://ebooksunnah.com/storage/media/8w5KtmhMweVWRJuT2e7Zdj35sx6EnnKmuSpMLtGd.jpg",
+      "link": "https://ebooksunnah.com/storage/media/sk8NfBCHw0p7OGPEe1dDJw4q9OuueKGd9OEBK96s.pdf",
+      "description": "Buku yang ada di hadapan pembaca saat ini adalah panduan ringkas nan jelas tentang dua amalan ibadah di penghujung bulan penuh berkah Ramadhan yaitu zakat fithri dan shalat idul fithri dengan tujuan agar kita kaum muslimin memiliki bekal ilmu dalam melaksanakan kedua ibadah sesuai rambu-rambu syariat Islam yang mulia. \n\n Buku ini kami susun dengan sistematis, mudah, ilmiah, akurat dengan dalil dan hujjah yang jelas. Semoga bisa bermanfaat bagi setiap pembaca."
+    },
+    {
+      "id": 89,
+      "name_category": "Ramadhan",
+      "author": "Abu Ubaidah Yusuf bin Mukhtar as-Sidawi, Abu Abdillah Syahrul Fatwa bin Luqman",
+      "title": "Fiqih Praktis Puasa Ramadhan",
+      "image": "https://ebooksunnah.com/storage/media/k0qQlH2ZoC7VW2GBi4RUMUtv5CsrXDEcRaLHvuEy.jpg",
+      "link": "https://ebooksunnah.com/storage/media/2CHeHNIvs8aSYInURYGOBEbyzdeRXrkcY4361SNu.pdf",
+      "description": "Kita tentu memahami betapa agungnya kedudukan ibadah puasa. Maka dari itu, sudah semestinya kita berusaha mencontoh Nabi kita Muhammad ﷺ dalam berpuasa. Sebab, mencontoh petunjuk Nabi ﷺ dalam setiap ketaatan merupakan salah satu kunci diterimanya amal shalih seorang hamba bersama dengan kunci lainnya yaitu ikhlas karena Allah. Dua syarat tersebut (ikhlas dan mencontoh Nabi ﷺ) ibaratnya seperti dua sayap burung yang tidak sempurna tanpa kedua-duanya. \n\n Hanya, untuk mengetahui petunjuk Nabi ﷺ di bulan puasa Ramadhan bukanlah hanya dengan angan-angan belaka, melainkan dengan ilmu yang bermanfaat yang membuahkan amal shalih. \n\n Berikut ini pembahasan ringkas, padat, dan jelas seputar puasa Ramadhan dengan berpijak pada dalil-dalil yang valid dari al-Qur‘an dan as-Sunnah serta penjelasan para ulama terkemuka. Semoga bermanfaat."
+    },
+    {
+      "id": 88,
+      "name_category": "Ramadhan",
+      "author": "Abu Hafizhah Irfan",
+      "title": "Perbanyak Doa di Bulan Ramadhan",
+      "image": "https://ebooksunnah.com/storage/media/5kzVqXyv7TWvPP29NlqXuEyablkp3NWHAJl4mPmt.jpg",
+      "link": "https://ebooksunnah.com/storage/media/BTlHsZ9bVq4A1coSwv2afFzTfy8qtQCFVfpyfDFq.pdf",
+      "description": "Ketika Allah Subhanahu wa Ta’ala menyebutkan ayat-ayat tentang puasa Ramadhan di dalam Al-Qur’an, tiba-tiba disebutkan ayat tentang doa, yaitu Surat Al-Baqarah ayat 186. Doa merupakan salah bentuk ibadah yang berpahala dan tidak boleh ditujukan kepada selain Allah Subhanahu wa Ta’ala. Di dalam ayat tersebut terdapat pemberitahuan tentang kedekatan Allah Subhanahu wa Ta’ala kepada para hamba-Nya dengan kedekatan yang sesuai dengan keagungan-Nya, sehingga tidak perlu seorang hamba berteriak-teriak dalam berdoa. Di antara yang mempengaruhi kemustajaban sebuah doa adalah; karena orangnya, karena waktu berdoanya dan karena tata caranya. Buku ini membahas tentang doa dan kiat-kiat agar doa terkabul. Semoga dengan membaca buku ini kita semakin bersemangat untuk memperbanyak doa di bulan Ramadhan, karena puasa merupakan salah satu sebab dikabulkannya doa. Semoga kehadiran buku ini bermanfaat bagi kaum muslimin."
+    },
+    {
+      "id": 87,
+      "name_category": "Ramadhan",
+      "author": "Abdul Muhsin bin Muhammad Al-Qasim",
+      "title": "Hadis-Hadis Puasa dari Kitab Shahih Bukhari dan Muslim",
+      "image": "https://ebooksunnah.com/storage/media/9RshpYLiktJY3XDjnCRQl7zEz0e5pjJ0gsSr02pw.jpg",
+      "link": "https://ebooksunnah.com/storage/media/kZoj4YJjQY2p2cWZM9A1vEhE0i2dKzDPuwViSx0E.pdf",
+      "description": "Hadis-Hadis Puasa dari Kitab Shahih Bukhari dan Muslim."
+    },
+    {
+      "id": 86,
+      "name_category": "Fiqih",
+      "author": "Tim Konsultasi Syariah Kementerian Agama RI",
+      "title": "Fikih Ibadah lengkap: Panduan Menjawab Problematika Umat Islam Kekinian",
+      "image": "https://simbi.kemenag.go.id/eliterasi/storage/perpustakaan/pusat/50be4cdb-d69e-4fa8-a2ff-3c8bb30d667e/cover-buku/94f70d3b7f-6362957316-[ELIPSKI].jpg",
+      "link": "https://drive.google.com/uc?export=download&id=1hYRopazekmYYH0Bn4ptZtOxYdx39dGK1",
+      "description": "Buku ini merupakan jawaban dari kasuistik yang menjadi problematika masyarakat muslim, di mana mereka tidak mengetahui dan bingung atas hukum atau langkah yang sedang mereka hadapi. Buku ini berupaya memberikan informasi fikih terkait realitas keagamaan yang sering terjadi di masyarakat. Dengan adanya buku ini diharapkan masyarakat muslim bisa mengetahui hukum fikih aras permasalahan keagamaan tersebut. Secara garis besar, bahasan buku ini berkutat pada 5 aspek fikih; fikih bersuci, salat, haji dan covid, puasa, jenazah dan fikih perempuan. Jadi materi yang dibahas merupakan konten fikih klasik yang dielaborasikan dengan problematika kontemporer. Tentunya ini menjadi kelebihan tersendiri, sebab fakta aktual dijawab dengan literatur turats dan fatwa-fatwa kontemporer yang relevan. Sehinggal buku ini memiliki tipologi tersendiri, yang bisa memancarkan karaktetistiknya di hadapan buku lain."
+    },
+    {
+      "id": 85,
+      "name_category": "Ramadhan",
+      "author": "Tim Layanan Syariah Ditjen Bimas Islam",
+      "title": "Syiar Ramadan Perekat Persaudaraan: Materi Kuliah dan Khutbah di Masjid dan Musala Selama Ramadan",
+      "image": "https://simbi.kemenag.go.id/eliterasi/storage/perpustakaan/pusat/0e7abe48-6345-4116-a0a8-3be085fd4d44/cover-buku/e89da93d67-7270584775-[ELIPSKI].jpg",
+      "link": "https://drive.google.com/uc?export=download&id=1WzakW-tdaBGmj9IU1kU-pcLfKkLYDW-J",
+      "description": "Syiar Ramadan Perekat Persaudaraan: Materi Kuliah dan Khutbah di Masjid dan Musala Selama Ramadan 1445 H / 2024"
+    },
+    {
       "id": 84,
       "name_category": "Anak",
       "author": "Arnida Sharah Auli, Nolitri Devi",
