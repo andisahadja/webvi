@@ -355,7 +355,7 @@
       "image": "file:///android_asset/gambar/pjok.webp"
     },
     {
-      "name_category": "Informatika",
+      "name_category": "Seni",
       "image": "file:///android_asset/gambar/informatika.webp"
     },
     {
@@ -366,6 +366,24 @@
 
 
   "Data": [
+    {
+      "id": 17,
+      "name_category": "Seni",
+      "author": "Yuniasri Maya Aisyah, Andre Marino Jobs",
+      "title": "Panduan Guru Seni Musik untuk SD/MI Kelas IV (Edisi Revisi)",
+      "image": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Seni_Musik_BG_KLS_IV_Rev_Cover.png",
+      "link": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Seni_Musik_BG_KLS_IV_Rev.pdf",
+      "description": "Segala puji bagi Tuhan Yang Maha Esa, karena atas rahmat-Nya penulis dapat menyelesaikanpenyusunan buku Panduan Guru Seni Musik SD/MI Kelas IV (Edisi Revisi) ini dengan sebaikmungkin. Ucapan terima kasih kami haturkan sebesar-besarnya kepada pihak-pihak yangtelah mendukung keseluruhan proses penulisan buku ini, mulai dari kerangka hinggaproses akhir. Terima kasih kepada Kementerian Pendidikan, Kebudayaan, Riset, danTeknologi Republik Indonesia yang telah memfokuskan pelajaran Seni Musik menjadi satusubjek mata pelajaran pilihan bagi para peserta didik yang memiliki minat dan potensiuntuk mengembangkannya.Di tengah era globalisasi yang serbacepat dan kompetitif ini, penulis bersyukursekaligus tertantang untuk menyusun panduan pembelajaran Seni Musik kelas IV yangsesuai dengan hakikat dan paradigma Kurikulum Merdeka. Buku ini merupakan salah satudari aneka sumber belajar bagi guru untuk menciptakan peserta didik yang berwawasanPelajar Pancasila dan berkompeten dalam mengembangkan potensi diri secara berimbang.Capaian pembelajaran dalam edisi revisi kali ini juga telah diarahkan untuk para peserta didikdapat mengembangkan aspek pengetahuan, keterampilan, dan sikap secara berimbangmelalui pembelajaran seni."
+    },
+    {
+      "id": 16,
+      "name_category": "PJOK",
+      "author": "Alda Indrawan, Tri Agus Prasetijo",
+      "title": "Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SD/MI Kelas IV",
+      "image": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/PJOK_BS_KLS_IV_Cover.png",
+      "link": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/PJOK_BS_KLS_IV.pdf",
+      "description": "Puji dan syukur kepada Tuhan Yang Maha Esa atas izin dan karunia-Nya,Buku Siswa Pendidikan Jasmani, Olahraga, dan Kesehatan Kelas IV ini dapatdiselesaikan. Buku ini digunakan oleh kalian, siswa kelas IV jenjang SD/MI,sebagai buku teks yang menjadi sumber belajar utama. Buku siswa ini terdiriatas 5 bab. Setiap babnya diawali dengan konteks keseharian kalian yangberkaitan dengan materi pendidikan jasmani, olahraga, dan kesehatan yangakan dibahas. Kalian juga diajak untuk ikut ambil bagian sebagai warga globalyang bertanggung jawab dalam merespons isu-isu global yang sedang terjadi.Isu-isu itu antara lain screen time, gaya hidup aktif, dan aktivitas isik yangmenyenangkan. Berbagai aktivitas yang disajikan pada buku ini adalah topikkeseharian dan kontekstual yang dapat diamati dalam keseharian kalian."
+    },
     {
       "id": 15,
       "name_category": "Agama",
@@ -453,7 +471,7 @@
       "author": "Amalia Fitri, Anggayudha A. Rasa, Aldilla Kusumawardhani, Kinkin K. Nursya’bani, Kristianti Fatimah, Nur Ilmi Setianingsih",
       "title": "Ilmu Pengetahuan Alam dan Sosial kelas IV",
       "image": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/IPAS-BS-KLS-IV-Cover.png",
-      "link": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPAS-BS-KLS-IV.pdf",
+      "link": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPAS-BS-KLS%20IV.pdf",
       "description": "Tantangan mempelajari bidang keilmuan IPAS senantiasa berkembang dari waktu ke waktu yang tentunya memengaruhi cara belajar peserta didik. Buku ini mengelaborasikan pemahaman-pemahaman esensial dengan ragam aktivitas yang diharapkan mampu menstimulus keingintahuan peserta didik terhadap topik-topik seputar fenomena alam dan sosial di sekitarnya, sehingga peserta didik termotivasi untuk belajar lebih lanjut secara mandiri. \n\nSemoga buku ini dapat memberikan kontribusi yang nyata dalam membantu peserta didik mencapai kompetensinya sehingga berdampak terhadap kemajuan pendidikan IPAS tingkat dasar di Indonesia. Penulis menantikan kritik dan masukan yang membangun untuk perbaikan buku ini di masa yang akan datang."
     },
     {
@@ -462,7 +480,7 @@
       "author": "Amalia Fitri, Anggayudha A. Rasa, Aldilla Kusumawardhani, Kinkin K. Nursya’bani, Kristianti Fatimah, Nur Ilmi Setianingsih",
       "title": "Ilmu Pengetahuan Alam dan Sosial kelas IV",
       "image": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/IPAS-BS-KLS-IV-Cover.png",
-      "link": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPAS-BS-KLS-IV.pdf",
+      "link": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPAS-BS-KLS%20IV.pdf",
       "description": "Tantangan mempelajari bidang keilmuan IPAS senantiasa berkembang dari waktu ke waktu yang tentunya memengaruhi cara belajar peserta didik. Buku ini mengelaborasikan pemahaman-pemahaman esensial dengan ragam aktivitas yang diharapkan mampu menstimulus keingintahuan peserta didik terhadap topik-topik seputar fenomena alam dan sosial di sekitarnya, sehingga peserta didik termotivasi untuk belajar lebih lanjut secara mandiri. \n\nSemoga buku ini dapat memberikan kontribusi yang nyata dalam membantu peserta didik mencapai kompetensinya sehingga berdampak terhadap kemajuan pendidikan IPAS tingkat dasar di Indonesia. Penulis menantikan kritik dan masukan yang membangun untuk perbaikan buku ini di masa yang akan datang."
     },
     {
